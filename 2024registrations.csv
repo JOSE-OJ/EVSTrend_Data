@@ -1,0 +1,1224 @@
+﻿City and Vehicle Type,,Alcohol,Butane,Compressed Natural Gas,Diesel,Electric,Gasoline,Hybrid,Hydrogen,Liquefied Natural Gas,Other,Plug-in Hybrid,Propane,Steam,TOTAL
+ALPINE,Motorcycle - Standard,0,0,0,0,2,442,0,0,0,0,0,0,0,444
+,Passenger - Standard,0,0,2,39,132,"2,865",128,0,0,1,26,0,0,"3,193"
+,Light Truck,0,0,2,454,179,"4,723",183,0,0,0,42,0,0,"5,583"
+,Heavy Truck,0,0,0,258,0,29,0,0,0,0,0,0,0,287
+ALTA,Motorcycle - Standard,0,0,0,0,0,11,0,0,0,0,0,0,0,11
+,Passenger - Standard,0,0,0,1,2,47,0,0,0,0,0,0,0,50
+,Light Truck,0,0,0,14,2,173,2,0,0,0,2,0,0,193
+,Heavy Truck,0,0,0,2,0,1,0,0,0,0,0,0,0,3
+ALTAMONT,Motorcycle - Standard,0,0,0,0,0,24,0,0,0,0,0,0,0,24
+,Passenger - Standard,0,0,0,4,1,215,1,0,0,0,0,0,0,221
+,Light Truck,0,0,0,253,0,610,0,0,0,0,0,0,0,863
+,Heavy Truck,0,0,0,139,0,9,0,0,0,0,0,0,0,148
+ALTON,Motorcycle - Standard,0,0,0,0,0,16,0,0,0,0,0,0,0,16
+,Passenger - Standard,0,0,0,5,1,71,3,0,0,0,0,0,0,80
+,Light Truck,0,0,0,81,0,195,1,0,0,0,1,0,0,278
+,Heavy Truck,0,0,0,24,0,2,0,0,0,0,0,0,0,26
+ALTONAH,Motorcycle - Standard,0,0,0,0,0,10,0,0,0,0,0,0,0,10
+,Passenger - Standard,0,0,1,0,0,60,1,0,0,0,0,0,0,62
+,Light Truck,0,0,1,96,0,171,0,0,0,0,0,0,0,268
+,Heavy Truck,0,0,0,43,0,2,0,0,0,0,0,0,0,45
+AMALGA,Motorcycle - Standard,0,0,0,0,0,25,0,0,0,0,0,0,0,25
+,Passenger - Standard,0,0,1,2,1,144,2,0,0,0,1,0,0,151
+,Light Truck,0,0,0,60,2,202,1,0,0,0,1,0,0,266
+,Heavy Truck,0,0,0,38,0,4,0,0,0,0,0,0,0,42
+AMERICAN FORK,Motorcycle - Standard,0,0,0,0,8,812,0,0,0,1,0,0,0,821
+,Passenger - Standard,0,0,14,76,238,"11,198",449,0,0,0,69,0,0,"12,044"
+,Light Truck,0,0,16,"1,192",384,"13,974",388,0,0,0,68,0,0,"16,022"
+,Heavy Truck,0,0,0,"1,053",0,147,0,0,0,0,0,7,0,"1,207"
+ANETH,Motorcycle - Standard,0,0,0,0,0,11,0,0,0,0,0,0,0,11
+,Passenger - Standard,0,0,0,0,0,183,3,0,0,0,0,0,0,186
+,Light Truck,0,0,0,52,0,416,0,0,0,0,0,0,0,468
+,Heavy Truck,0,0,0,2,0,1,0,0,0,0,0,0,0,3
+ANNABELLA,Motorcycle - Standard,0,0,0,0,0,24,0,0,0,0,0,0,0,24
+,Passenger - Standard,0,0,2,5,2,381,5,0,0,0,1,0,0,396
+,Light Truck,0,0,0,195,1,587,5,0,0,0,2,0,0,790
+,Heavy Truck,0,0,0,52,0,4,0,0,0,0,0,0,0,56
+ANTIMONY,Motorcycle - Standard,0,0,0,0,0,12,0,0,0,0,0,0,0,12
+,Passenger - Standard,0,0,0,0,0,81,3,0,0,0,0,0,0,84
+,Light Truck,0,0,0,66,0,151,0,0,0,0,0,0,0,217
+,Heavy Truck,0,0,0,13,0,0,0,0,0,0,0,0,0,13
+APPLE VALLEY,Motorcycle - Standard,0,0,0,0,0,56,0,0,0,0,0,0,0,56
+,Passenger - Standard,0,0,3,17,5,344,13,0,0,0,0,0,0,382
+,Light Truck,0,0,2,212,5,571,10,0,0,0,3,0,0,803
+,Heavy Truck,0,0,0,42,0,8,0,0,0,0,0,0,0,50
+AURORA,Motorcycle - Standard,0,0,0,0,0,37,0,0,0,0,0,0,0,37
+,Passenger - Standard,0,0,2,2,1,434,8,0,0,0,1,0,0,448
+,Light Truck,0,0,5,288,0,666,6,0,0,0,0,0,0,965
+,Heavy Truck,0,0,0,196,0,6,0,0,0,0,0,0,0,202
+AXTELL,Motorcycle - Standard,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+,Passenger - Standard,0,0,0,2,0,128,2,0,0,0,0,0,0,132
+,Light Truck,0,0,0,92,0,219,0,0,0,0,0,0,0,311
+,Heavy Truck,0,0,0,13,0,2,0,0,0,0,0,0,0,15
+BALLARD,Motorcycle - Standard,0,0,0,0,0,44,0,0,0,0,0,0,0,44
+,Passenger - Standard,0,0,0,2,0,368,3,0,0,0,0,0,0,373
+,Light Truck,0,0,0,261,0,727,8,0,0,0,1,0,0,997
+,Heavy Truck,0,0,0,152,0,6,0,0,0,0,0,0,0,158
+BEAR RIVER CITY,Motorcycle - Standard,0,0,0,0,0,29,0,0,0,0,0,0,0,29
+,Passenger - Standard,0,0,3,6,0,350,4,0,0,0,3,0,0,366
+,Light Truck,0,0,1,188,0,488,3,0,0,0,0,0,0,680
+,Heavy Truck,0,0,0,56,0,9,0,0,0,0,0,0,0,65
+BEAVER,Motorcycle - Standard,0,0,0,0,1,102,0,0,0,0,0,0,0,103
+,Passenger - Standard,0,0,1,28,2,"1,563",55,0,0,0,2,0,0,"1,651"
+,Light Truck,0,0,6,764,2,"2,772",22,0,0,0,3,0,0,"3,569"
+,Heavy Truck,0,0,1,261,0,40,0,0,0,0,0,0,0,302
+BENJAMIN,Motorcycle - Standard,0,0,0,0,0,12,0,0,0,0,0,0,0,12
+,Passenger - Standard,0,0,1,3,3,137,6,0,0,0,0,0,0,150
+,Light Truck,0,0,0,93,1,216,2,0,0,0,0,0,0,312
+,Heavy Truck,0,0,0,12,0,3,0,0,0,0,0,0,0,15
+BENSON,Motorcycle - Standard,0,0,0,0,0,20,0,0,0,0,0,0,0,20
+,Passenger - Standard,0,0,1,6,0,190,3,0,0,0,3,0,0,203
+,Light Truck,0,0,0,101,0,314,6,0,0,0,0,0,0,421
+,Heavy Truck,0,0,0,64,0,4,0,0,0,0,0,0,0,68
+BERYL,Motorcycle - Standard,0,0,0,0,0,19,0,0,0,0,0,0,0,19
+,Passenger - Standard,0,0,1,4,2,322,6,0,0,0,1,0,0,336
+,Light Truck,0,0,3,167,2,541,2,0,0,0,0,0,0,715
+,Heavy Truck,0,0,0,149,0,14,0,0,0,0,0,0,0,163
+BICKNELL,Motorcycle - Standard,0,0,0,0,0,22,0,0,0,1,0,0,0,23
+,Passenger - Standard,0,0,0,7,1,190,5,0,0,0,0,0,0,203
+,Light Truck,0,0,0,129,1,328,10,0,0,0,1,0,0,469
+,Heavy Truck,0,0,0,73,0,2,0,0,0,0,0,0,0,75
+BIG WATER,Motorcycle - Standard,0,0,0,0,0,15,0,0,0,0,0,0,0,15
+,Passenger - Standard,0,0,0,1,1,117,7,0,0,0,0,0,0,126
+,Light Truck,0,0,0,48,0,225,3,0,0,0,0,0,0,276
+,Heavy Truck,0,0,0,13,0,4,0,0,0,0,0,0,0,17
+BINGHAM CANYON,Motorcycle - Standard,0,0,0,0,0,12,0,0,0,0,0,0,0,12
+,Passenger - Standard,0,0,1,0,1,85,2,0,0,0,2,0,0,91
+,Light Truck,0,0,0,12,0,158,2,0,0,0,0,0,0,172
+,Heavy Truck,0,0,0,32,0,4,0,0,0,0,0,0,0,36
+BLANDING,Motorcycle - Standard,0,0,0,0,0,118,0,0,0,0,0,0,0,118
+,Passenger - Standard,0,0,0,10,3,"1,157",39,0,0,0,6,0,0,"1,215"
+,Light Truck,0,0,0,438,0,"2,092",21,0,0,0,2,0,0,"2,553"
+,Heavy Truck,0,0,0,205,0,24,0,0,0,0,0,0,0,229
+BLUEBELL,Motorcycle - Standard,0,0,0,0,0,16,0,0,0,0,0,0,0,16
+,Passenger - Standard,0,0,0,2,1,227,1,0,0,0,0,0,0,231
+,Light Truck,0,0,0,151,1,372,2,0,0,0,0,0,0,526
+,Heavy Truck,0,0,0,46,0,4,0,0,0,0,0,0,0,50
+BLUFF,Motorcycle - Standard,0,0,0,0,0,17,0,0,0,0,0,0,0,17
+,Passenger - Standard,0,0,0,5,2,200,8,0,0,0,1,0,0,216
+,Light Truck,0,0,0,63,1,410,5,0,0,0,1,0,0,480
+,Heavy Truck,0,0,0,9,0,0,0,0,0,0,0,0,0,9
+BLUFFDALE,Motorcycle - Standard,0,0,0,0,1,462,0,0,0,0,0,0,0,463
+,Passenger - Standard,0,0,8,47,162,"4,332",158,0,0,0,36,0,0,"4,743"
+,Light Truck,0,0,9,"1,187",207,"7,022",227,0,0,0,50,0,0,"8,702"
+,Heavy Truck,0,0,0,430,0,88,0,0,0,0,0,0,0,518
+BOULDER,Motorcycle - Standard,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+,Passenger - Standard,0,0,0,2,1,93,4,0,0,0,0,0,0,100
+,Light Truck,0,0,0,54,2,254,3,0,0,0,1,0,0,314
+,Heavy Truck,0,0,0,8,0,2,0,0,0,0,0,0,0,10
+BOUNTIFUL,Motorcycle - Standard,0,0,0,0,4,"1,396",0,0,0,0,0,0,0,"1,400"
+,Passenger - Standard,0,0,41,117,250,"13,380",558,0,0,1,91,1,0,"14,439"
+,Light Truck,0,0,14,"1,046",236,"16,029",587,0,0,0,89,1,0,"18,002"
+,Heavy Truck,0,0,2,254,0,113,0,0,0,0,0,0,0,369
+BRIAN HEAD,Motorcycle - Standard,0,0,0,0,0,22,0,0,0,0,0,0,0,22
+,Passenger - Standard,0,0,0,1,0,90,2,0,0,0,1,0,0,94
+,Light Truck,0,0,0,58,5,274,2,0,0,0,0,0,0,339
+,Heavy Truck,0,0,0,23,0,4,0,0,0,0,0,0,0,27
+BRIGHAM CITY,Motorcycle - Standard,0,0,0,0,1,828,0,0,0,0,0,0,0,829
+,Passenger - Standard,0,0,37,105,52,"9,343",265,0,0,0,40,0,0,"9,842"
+,Light Truck,0,0,18,"1,797",23,"10,065",154,0,0,0,13,0,0,"12,070"
+,Heavy Truck,0,0,1,871,0,205,0,0,0,0,0,0,0,"1,077"
+BRIGHTON,Motorcycle - Standard,0,0,0,0,0,21,0,0,0,0,0,0,0,21
+,Passenger - Standard,0,0,0,1,5,72,3,0,0,0,0,0,0,81
+,Light Truck,0,0,0,27,9,221,14,0,0,0,1,0,0,272
+,Heavy Truck,0,0,0,3,0,3,0,0,0,0,0,0,0,6
+BROOKSIDE,Motorcycle - Standard,0,0,0,0,0,13,0,0,0,0,0,0,0,13
+,Passenger - Standard,0,0,0,3,1,81,4,0,0,0,0,0,0,89
+,Light Truck,0,0,0,53,1,187,2,0,0,0,0,0,0,243
+,Heavy Truck,0,0,0,15,0,7,0,0,0,0,0,0,0,22
+BRYCE CANYON,Motorcycle - Standard,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+,Passenger - Standard,0,0,0,2,0,133,8,0,0,0,2,0,0,145
+,Light Truck,0,0,1,35,1,192,2,0,0,0,1,0,0,232
+,Heavy Truck,0,0,0,26,0,2,0,0,0,0,0,0,0,28
+CANNONVILLE,Motorcycle - Standard,0,0,0,0,0,3,0,0,0,0,0,0,0,3
+,Passenger - Standard,0,0,1,2,0,70,2,0,0,0,0,0,0,75
+,Light Truck,0,0,0,42,0,110,1,0,0,0,0,0,0,153
+,Heavy Truck,0,0,0,24,0,1,0,0,0,0,0,0,0,25
+CASTLE DALE,Motorcycle - Standard,0,0,0,0,0,29,0,0,0,0,0,0,0,29
+,Passenger - Standard,0,0,2,12,1,575,13,0,0,0,1,0,0,604
+,Light Truck,0,0,3,306,2,870,11,0,0,0,1,0,0,"1,193"
+,Heavy Truck,0,0,0,109,0,9,0,0,0,0,0,0,0,118
+CASTLE VALLEY,Motorcycle - Standard,0,0,0,0,0,42,0,0,0,0,0,0,0,42
+,Passenger - Standard,0,0,0,1,0,121,7,0,0,0,1,0,0,130
+,Light Truck,0,0,0,51,6,306,6,0,0,0,2,0,0,371
+,Heavy Truck,0,0,0,17,0,4,0,0,0,0,0,0,0,21
+CEDAR CITY,Motorcycle - Standard,0,0,0,0,2,"1,328",0,0,0,1,0,0,0,"1,331"
+,Passenger - Standard,0,0,51,278,97,"14,587",534,0,0,0,58,0,0,"15,605"
+,Light Truck,0,1,48,"4,181",69,"21,972",367,0,0,1,71,0,0,"26,710"
+,Heavy Truck,0,0,2,"1,217",0,305,0,0,0,0,0,13,0,"1,537"
+CEDAR FORT,Motorcycle - Standard,0,0,0,0,0,11,0,0,0,0,0,0,0,11
+,Passenger - Standard,0,0,0,1,2,45,2,0,0,0,0,0,0,50
+,Light Truck,0,0,0,47,1,99,2,0,0,0,0,0,0,149
+,Heavy Truck,0,0,0,19,0,1,0,0,0,0,0,0,0,20
+CEDAR HILLS,Motorcycle - Standard,0,0,0,0,2,270,0,0,0,0,0,0,0,272
+,Passenger - Standard,0,0,2,20,83,"2,759",146,0,0,0,19,0,0,"3,029"
+,Light Truck,0,0,2,203,67,"3,518",129,0,0,0,22,0,0,"3,941"
+,Heavy Truck,0,0,0,37,0,22,0,0,0,0,0,0,0,59
+CEDAR VALLEY,Motorcycle - Standard,0,0,0,0,0,18,0,0,0,0,0,0,0,18
+,Passenger - Standard,0,0,0,1,2,135,8,0,0,0,1,0,0,147
+,Light Truck,0,0,0,87,0,206,8,0,0,0,0,0,0,301
+,Heavy Truck,0,0,0,26,0,3,0,0,0,0,0,0,0,29
+CENTERFIELD,Motorcycle - Standard,0,0,0,0,0,50,0,0,0,0,0,0,0,50
+,Passenger - Standard,0,0,4,10,0,613,10,0,0,0,0,0,0,637
+,Light Truck,0,0,3,241,1,869,6,0,0,0,1,0,0,"1,121"
+,Heavy Truck,0,0,0,84,0,4,0,0,0,0,0,0,0,88
+CENTERVILLE,Motorcycle - Standard,0,0,0,0,1,473,0,0,0,0,0,0,0,474
+,Passenger - Standard,0,0,13,62,106,"5,431",237,0,1,1,25,0,0,"5,876"
+,Light Truck,0,0,4,555,92,"6,809",233,0,0,0,31,0,0,"7,724"
+,Heavy Truck,0,0,0,291,0,65,0,0,0,0,0,0,0,356
+CENTRAL,Motorcycle - Standard,0,0,0,0,0,32,0,0,0,0,0,0,0,32
+,Passenger - Standard,0,0,1,5,8,263,11,0,0,0,3,0,0,291
+,Light Truck,0,0,1,115,1,448,2,0,0,0,0,0,0,567
+,Heavy Truck,0,0,0,10,0,15,0,0,0,0,0,0,0,25
+CENTRAL VALLEY,Motorcycle - Standard,0,0,0,0,0,28,0,0,0,0,0,0,0,28
+,Passenger - Standard,0,0,1,1,1,269,11,0,0,0,0,0,0,283
+,Light Truck,0,0,2,173,0,480,3,0,0,0,1,0,0,659
+,Heavy Truck,0,0,0,19,0,5,0,0,0,0,0,0,0,24
+CHESTER,Motorcycle - Standard,0,0,0,0,1,6,0,0,0,0,0,0,0,7
+,Passenger - Standard,0,0,0,4,2,171,2,0,0,0,0,0,0,179
+,Light Truck,0,0,0,62,0,222,0,0,0,0,0,0,0,284
+,Heavy Truck,0,0,0,23,0,2,0,0,0,0,0,0,0,25
+CIRCLEVILLE,Motorcycle - Standard,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+,Passenger - Standard,0,0,3,7,0,244,3,0,0,0,0,0,0,257
+,Light Truck,0,0,3,124,0,358,3,0,0,0,0,0,0,488
+,Heavy Truck,0,0,0,49,0,3,0,0,0,0,0,0,0,52
+CLARKSTON,Motorcycle - Standard,0,0,0,0,0,30,0,0,0,0,0,0,0,30
+,Passenger - Standard,0,0,0,3,3,264,13,0,0,0,0,0,0,283
+,Light Truck,0,0,0,109,3,349,4,0,0,0,1,0,0,466
+,Heavy Truck,0,0,0,37,0,13,0,0,0,0,0,0,0,50
+CLAWSON,Motorcycle - Standard,0,0,0,0,0,10,0,0,0,0,0,0,0,10
+,Passenger - Standard,0,0,0,0,0,80,2,0,0,0,0,0,0,82
+,Light Truck,0,0,0,38,0,115,1,0,0,0,0,0,0,154
+,Heavy Truck,0,0,0,0,0,3,0,0,0,0,0,0,0,3
+CLEARFIELD,Motorcycle - Standard,0,0,0,0,2,839,0,0,0,0,0,0,0,841
+,Passenger - Standard,0,0,15,67,104,"11,150",350,0,1,0,55,0,0,"11,742"
+,Light Truck,0,0,9,937,52,"11,141",213,0,0,0,33,0,0,"12,385"
+,Heavy Truck,0,0,1,454,0,93,0,0,0,0,0,0,0,548
+CLEVELAND,Motorcycle - Standard,0,0,0,0,0,29,0,0,0,0,0,0,0,29
+,Passenger - Standard,0,0,0,1,0,345,6,0,0,0,1,0,0,353
+,Light Truck,0,0,0,230,0,506,1,0,0,0,0,0,0,737
+,Heavy Truck,0,0,0,78,0,5,0,0,0,0,0,0,0,83
+CLINTON,Motorcycle - Standard,0,0,0,0,2,654,0,0,0,0,0,0,0,656
+,Passenger - Standard,0,0,11,44,75,"6,597",195,0,0,0,27,0,0,"6,949"
+,Light Truck,0,0,7,885,55,"7,226",170,0,0,0,34,0,0,"8,377"
+,Heavy Truck,0,0,0,133,0,81,0,0,0,0,0,0,0,214
+COALVILLE,Motorcycle - Standard,0,0,0,0,0,165,0,0,0,0,0,0,0,165
+,Passenger - Standard,0,0,2,25,12,"1,409",24,0,0,0,5,0,0,"1,477"
+,Light Truck,0,0,7,694,17,"2,742",76,0,0,0,3,0,0,"3,539"
+,Heavy Truck,0,0,0,294,0,62,2,0,0,0,0,0,0,358
+COLLINSTON,Motorcycle - Standard,0,0,0,0,0,14,0,0,0,0,0,0,0,14
+,Passenger - Standard,0,0,1,3,2,181,3,0,0,0,0,0,0,190
+,Light Truck,0,0,0,98,2,243,1,0,0,0,1,0,0,345
+,Heavy Truck,0,0,0,27,0,10,0,0,0,0,0,0,0,37
+COPPERTON,Motorcycle - Standard,0,0,0,0,0,32,0,0,0,0,0,0,0,32
+,Passenger - Standard,0,0,1,2,1,148,5,0,0,0,1,0,0,158
+,Light Truck,0,0,0,31,1,214,2,0,0,0,0,0,0,248
+,Heavy Truck,0,0,0,7,0,10,0,0,0,0,0,0,0,17
+CORINNE,Motorcycle - Standard,0,0,0,0,0,70,0,0,0,0,0,0,0,70
+,Passenger - Standard,0,0,4,25,4,761,16,0,0,0,2,0,0,812
+,Light Truck,0,0,1,368,3,"1,164",8,0,0,0,2,1,0,"1,547"
+,Heavy Truck,0,0,0,231,0,34,0,0,0,0,0,0,0,265
+CORNISH,Motorcycle - Standard,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+,Passenger - Standard,0,0,0,1,0,97,1,0,0,0,0,0,0,99
+,Light Truck,0,0,0,27,0,143,1,0,0,0,0,0,0,171
+,Heavy Truck,0,0,0,12,0,4,0,0,0,0,0,0,0,16
+COTTONWOOD HEIGHTS,Motorcycle - Standard,0,0,0,0,6,481,0,0,0,0,0,0,0,487
+,Passenger - Standard,0,0,3,43,165,"3,602",183,0,0,0,31,0,0,"4,027"
+,Light Truck,0,0,1,333,228,"5,924",266,0,0,0,61,0,0,"6,813"
+,Heavy Truck,0,0,0,135,0,31,0,0,0,0,0,0,0,166
+COVE,Motorcycle - Standard,0,0,0,0,0,26,0,0,0,0,0,0,0,26
+,Passenger - Standard,0,0,0,2,0,107,4,0,0,0,1,0,0,114
+,Light Truck,0,0,0,57,1,221,9,0,0,0,1,0,0,289
+,Heavy Truck,0,0,0,27,0,2,0,0,0,0,0,0,0,29
+CROYDON,Motorcycle - Standard,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+,Passenger - Standard,0,0,0,4,0,67,1,0,0,0,0,0,0,72
+,Light Truck,0,0,0,59,1,121,1,0,0,0,0,0,0,182
+,Heavy Truck,0,0,0,25,0,4,0,0,0,0,0,0,0,29
+DAMMERON VALLEY,Motorcycle - Standard,0,0,0,0,0,107,0,0,0,0,0,0,0,107
+,Passenger - Standard,0,0,3,10,8,308,20,0,0,0,2,0,0,351
+,Light Truck,0,0,1,188,7,606,26,0,0,0,5,0,0,833
+,Heavy Truck,0,0,0,34,0,15,0,0,0,0,0,0,0,49
+DELTA,Motorcycle - Standard,0,0,0,0,0,169,0,0,0,0,0,0,0,169
+,Passenger - Standard,0,0,1,49,5,"2,462",42,0,0,0,8,0,0,"2,567"
+,Light Truck,0,0,7,"1,058",4,"3,359",21,0,0,0,6,0,0,"4,455"
+,Heavy Truck,0,0,0,541,0,55,0,0,0,0,0,0,0,596
+DEWEYVILLE,Motorcycle - Standard,0,0,0,0,0,27,0,0,0,0,0,0,0,27
+,Passenger - Standard,0,0,0,9,2,265,11,0,0,0,0,0,0,287
+,Light Truck,0,0,0,133,2,383,4,0,0,0,0,0,0,522
+,Heavy Truck,0,0,0,20,0,4,0,0,0,0,0,0,0,24
+DRAPER,Motorcycle - Standard,0,0,0,0,6,"1,514",0,0,0,1,0,0,0,"1,521"
+,Passenger - Standard,0,0,10,131,563,"13,949","1,212",0,1,0,75,0,0,"15,941"
+,Light Truck,0,0,19,"2,259",705,"24,222",816,0,0,0,190,1,0,"28,212"
+,Heavy Truck,0,0,0,"1,259",0,273,0,0,0,0,0,0,0,"1,532"
+DUCHESNE,Motorcycle - Standard,0,0,0,0,0,105,0,0,0,0,0,0,0,105
+,Passenger - Standard,0,0,0,25,2,"1,351",23,0,0,0,4,0,0,"1,405"
+,Light Truck,0,0,3,731,3,"2,376",16,0,0,0,3,0,0,"3,132"
+,Heavy Truck,0,0,0,347,0,52,0,0,0,0,0,1,0,400
+DUCK CREEK VILLAGE,Motorcycle - Standard,0,0,0,0,0,42,0,0,0,0,0,0,0,42
+,Passenger - Standard,0,0,0,11,4,167,9,0,0,0,1,0,0,192
+,Light Truck,0,0,2,273,6,578,7,0,0,0,3,0,0,869
+,Heavy Truck,0,0,0,43,0,17,0,0,0,0,0,0,0,60
+DUGWAY,Motorcycle - Standard,0,0,0,0,0,19,0,0,0,0,0,0,0,19
+,Passenger - Standard,0,0,0,1,0,96,4,0,0,0,0,0,0,101
+,Light Truck,0,0,0,16,0,239,5,0,0,0,0,0,0,260
+,Heavy Truck,0,0,0,17,0,1,0,0,0,0,0,0,0,18
+DUTCH JOHN,Motorcycle - Standard,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+,Passenger - Standard,0,0,0,2,0,67,0,0,0,0,0,0,0,69
+,Light Truck,0,0,0,45,1,205,3,0,0,0,0,0,0,254
+,Heavy Truck,0,0,0,11,0,1,0,0,0,0,0,0,0,12
+EAGLE MOUNTAIN,Motorcycle - Standard,0,0,0,0,3,987,0,0,0,0,0,0,0,990
+,Passenger - Standard,0,0,16,108,324,"11,856",601,0,0,1,89,0,0,"12,995"
+,Light Truck,0,0,17,"1,516",283,"16,305",457,0,0,0,62,0,0,"18,640"
+,Heavy Truck,0,0,1,368,0,100,0,0,1,0,0,0,0,470
+EAST CARBON,Motorcycle - Standard,0,0,0,0,0,43,0,0,0,0,0,0,0,43
+,Passenger - Standard,0,0,0,4,1,539,6,0,0,0,0,0,0,550
+,Light Truck,0,0,1,102,0,631,1,0,0,0,1,0,0,736
+,Heavy Truck,0,0,0,12,0,6,0,0,0,0,0,0,0,18
+EDEN,Motorcycle - Standard,0,0,0,0,2,249,0,0,0,0,0,0,0,251
+,Passenger - Standard,0,0,4,25,35,"1,001",40,0,0,0,5,0,0,"1,110"
+,Light Truck,0,0,1,440,55,"2,316",69,0,0,0,28,0,0,"2,909"
+,Heavy Truck,0,0,0,97,0,34,0,0,0,0,0,0,0,131
+ELBERTA,Motorcycle - Standard,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+,Passenger - Standard,0,0,2,0,0,140,1,0,0,0,1,0,0,144
+,Light Truck,0,0,1,35,0,162,0,0,0,0,0,0,0,198
+,Heavy Truck,0,0,0,59,0,1,0,0,0,0,0,0,0,60
+ELK RIDGE,Motorcycle - Standard,0,0,0,0,0,142,0,0,0,0,0,0,0,142
+,Passenger - Standard,0,0,3,14,31,"1,255",50,0,0,0,9,0,0,"1,362"
+,Light Truck,0,0,2,242,21,"1,719",62,0,0,0,13,0,0,"2,059"
+,Heavy Truck,0,0,0,61,0,20,0,0,0,0,0,0,0,81
+ELMO,Motorcycle - Standard,0,0,0,0,0,20,0,0,0,0,0,0,0,20
+,Passenger - Standard,0,0,2,8,1,293,10,0,0,0,0,0,0,314
+,Light Truck,0,0,0,160,0,367,3,0,0,0,0,0,0,530
+,Heavy Truck,0,0,0,25,0,3,0,0,0,0,0,0,0,28
+ELSINORE,Motorcycle - Standard,0,0,0,0,0,45,0,0,0,0,0,0,0,45
+,Passenger - Standard,0,0,0,4,0,560,7,0,0,0,2,0,0,573
+,Light Truck,0,0,4,171,0,714,3,0,0,0,0,0,0,892
+,Heavy Truck,0,0,0,30,0,9,0,0,0,0,0,0,0,39
+ELWOOD,Motorcycle - Standard,0,0,0,0,0,27,0,0,0,0,0,0,0,27
+,Passenger - Standard,0,0,1,6,3,262,13,0,0,0,3,0,0,288
+,Light Truck,0,0,1,163,1,371,2,0,0,0,2,0,0,540
+,Heavy Truck,0,0,0,44,0,4,0,0,0,0,0,0,0,48
+EMERY,Motorcycle - Standard,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+,Passenger - Standard,0,0,0,10,0,154,4,0,0,0,0,0,0,168
+,Light Truck,0,0,0,92,0,222,0,0,0,0,0,0,0,314
+,Heavy Truck,0,0,0,30,0,6,0,0,0,0,0,0,0,36
+ENOCH,Motorcycle - Standard,0,0,0,0,0,206,0,0,0,0,0,0,0,206
+,Passenger - Standard,0,0,8,32,6,"2,065",59,0,0,0,11,0,0,"2,181"
+,Light Truck,0,0,6,729,7,"3,181",43,0,0,0,8,0,0,"3,974"
+,Heavy Truck,0,0,0,87,0,39,0,0,0,0,0,0,0,126
+ENTERPRISE,Motorcycle - Standard,0,0,0,0,0,52,0,0,0,0,0,0,0,52
+,Passenger - Standard,0,0,4,22,2,885,27,0,0,0,0,0,0,940
+,Light Truck,0,0,1,408,3,"1,261",16,0,0,0,0,0,0,"1,689"
+,Heavy Truck,0,0,0,116,0,11,0,0,0,0,0,0,0,127
+EPHRAIM,Motorcycle - Standard,0,0,0,0,1,126,0,0,0,0,0,0,0,127
+,Passenger - Standard,0,0,3,26,9,"2,042",77,0,0,0,8,0,0,"2,165"
+,Light Truck,0,0,5,487,7,"2,648",28,0,1,0,1,0,0,"3,177"
+,Heavy Truck,0,0,0,171,0,36,0,0,0,0,0,0,0,207
+ERDA,Motorcycle - Standard,0,0,0,0,0,137,0,0,0,0,0,0,0,137
+,Passenger - Standard,0,0,1,21,15,"1,291",40,0,0,0,10,0,0,"1,378"
+,Light Truck,0,0,5,626,7,"1,605",26,0,0,0,9,0,0,"2,278"
+,Heavy Truck,0,0,0,258,0,43,0,0,0,0,0,0,0,301
+ESCALANTE,Motorcycle - Standard,0,0,0,0,0,43,0,0,0,0,0,0,0,43
+,Passenger - Standard,0,0,0,9,0,331,11,0,0,0,0,0,0,351
+,Light Truck,0,0,1,237,2,683,9,0,0,0,3,0,0,935
+,Heavy Truck,0,0,0,91,0,9,0,0,0,0,0,0,0,100
+EUREKA,Motorcycle - Standard,0,0,0,0,0,30,0,0,0,0,0,0,0,30
+,Passenger - Standard,0,0,1,8,2,377,8,0,0,0,2,0,0,398
+,Light Truck,0,0,1,160,0,516,2,0,0,0,0,0,0,679
+,Heavy Truck,0,0,0,37,0,7,0,0,0,0,0,0,0,44
+FAIRFIELD,Motorcycle - Standard,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+,Passenger - Standard,0,0,0,4,0,49,0,0,0,0,0,0,0,53
+,Light Truck,0,0,0,36,2,79,0,0,0,0,0,0,0,117
+,Heavy Truck,0,0,0,33,0,1,0,0,0,0,0,0,0,34
+FAIRVIEW,Motorcycle - Standard,0,0,0,0,0,118,0,0,0,0,0,0,0,118
+,Passenger - Standard,0,0,5,31,6,"1,483",36,0,0,0,9,0,0,"1,570"
+,Light Truck,1,0,3,803,9,"2,104",14,0,0,0,3,0,0,"2,937"
+,Heavy Truck,0,0,1,204,0,49,0,0,0,0,0,0,0,254
+FARMINGTON,Motorcycle - Standard,0,0,0,0,2,675,0,0,0,0,0,0,0,677
+,Passenger - Standard,0,0,17,66,262,"7,185",352,0,0,0,39,0,0,"7,921"
+,Light Truck,0,0,14,778,254,"9,581",322,0,0,0,63,0,0,"11,012"
+,Heavy Truck,0,0,0,441,0,87,0,0,0,0,0,0,0,528
+FARR WEST,Motorcycle - Standard,0,0,0,0,0,271,0,0,0,0,0,0,0,271
+,Passenger - Standard,0,0,0,17,21,"2,067",54,0,0,0,9,0,0,"2,168"
+,Light Truck,0,0,0,635,20,"2,795",73,0,0,0,6,0,0,"3,529"
+,Heavy Truck,0,0,0,386,0,32,0,0,0,0,0,0,0,418
+FAYETTE,Motorcycle - Standard,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+,Passenger - Standard,0,0,0,1,1,153,4,0,0,0,0,0,0,159
+,Light Truck,0,0,0,39,1,195,2,0,0,0,0,0,0,237
+,Heavy Truck,0,0,0,29,0,4,0,0,0,0,0,0,0,33
+FERRON,Motorcycle - Standard,0,0,0,0,0,49,0,0,0,0,0,0,0,49
+,Passenger - Standard,0,0,1,7,0,664,7,0,0,0,3,0,0,682
+,Light Truck,0,0,0,293,2,910,7,0,0,0,1,0,0,"1,213"
+,Heavy Truck,0,0,0,32,0,15,0,0,0,0,0,0,0,47
+FIELDING,Motorcycle - Standard,0,0,0,0,0,26,0,0,0,0,0,0,0,26
+,Passenger - Standard,0,0,1,4,0,328,4,0,0,0,4,0,0,341
+,Light Truck,0,0,1,202,0,462,8,0,0,0,0,0,0,673
+,Heavy Truck,0,0,0,77,0,4,0,0,0,0,0,0,0,81
+FILLMORE,Motorcycle - Standard,0,0,0,0,0,70,0,0,0,0,0,0,0,70
+,Passenger - Standard,0,0,4,21,2,"1,385",28,0,0,0,1,0,0,"1,441"
+,Light Truck,0,0,3,431,0,"2,163",19,0,0,0,1,0,0,"2,617"
+,Heavy Truck,0,0,0,191,0,27,0,0,0,0,0,0,0,218
+FORT DUCHESNE,Motorcycle - Standard,0,0,0,0,0,48,0,0,0,0,0,0,0,48
+,Passenger - Standard,0,0,0,2,0,534,2,0,0,0,1,0,0,539
+,Light Truck,0,0,1,216,0,"1,206",7,0,0,0,1,0,0,"1,431"
+,Heavy Truck,0,0,0,163,0,18,0,0,0,0,0,0,0,181
+FOUNTAIN GREEN,Motorcycle - Standard,0,0,0,0,0,43,0,0,0,0,0,0,0,43
+,Passenger - Standard,0,0,5,7,2,601,13,0,0,0,0,0,0,628
+,Light Truck,0,0,1,262,1,753,8,0,0,0,1,0,0,"1,026"
+,Heavy Truck,0,0,1,57,0,16,0,0,0,0,0,0,0,74
+FRANCIS,Motorcycle - Standard,0,0,0,0,0,58,0,0,0,0,0,0,0,58
+,Passenger - Standard,0,0,0,7,3,348,7,0,0,0,1,0,0,366
+,Light Truck,0,0,0,189,10,725,22,0,0,0,4,0,0,950
+,Heavy Truck,0,0,0,49,0,10,0,0,0,0,0,0,0,59
+FREMONT,Motorcycle - Standard,0,0,0,0,0,12,0,0,0,0,0,0,0,12
+,Passenger - Standard,0,0,0,1,0,123,5,0,0,0,0,0,0,129
+,Light Truck,0,0,0,84,0,221,3,0,0,0,1,0,0,309
+,Heavy Truck,0,0,0,8,0,1,0,0,0,0,0,0,0,9
+FRUIT HEIGHTS,Motorcycle - Standard,0,0,0,0,1,208,0,0,0,0,0,0,0,209
+,Passenger - Standard,0,0,7,16,59,"1,759",81,0,0,0,17,0,0,"1,939"
+,Light Truck,0,0,4,181,76,"2,322",93,0,0,0,13,0,0,"2,689"
+,Heavy Truck,0,0,0,20,0,17,0,0,0,0,0,0,0,37
+FRUITLAND,Motorcycle - Standard,0,0,0,0,0,40,0,0,0,0,0,0,0,40
+,Passenger - Standard,0,0,0,14,1,436,1,0,0,0,1,0,0,453
+,Light Truck,0,0,2,307,0,694,3,0,0,0,1,0,0,"1,007"
+,Heavy Truck,0,0,0,71,0,15,0,0,0,0,0,0,0,86
+GARDEN CITY,Motorcycle - Standard,0,0,0,0,0,100,0,0,0,0,0,0,0,100
+,Passenger - Standard,0,0,1,7,1,512,23,0,0,1,6,0,0,551
+,Light Truck,0,0,2,322,4,884,18,0,0,0,4,0,0,"1,234"
+,Heavy Truck,0,0,0,81,0,23,0,0,0,0,0,0,0,104
+GARLAND,Motorcycle - Standard,0,0,0,0,2,134,0,0,0,0,0,0,0,136
+,Passenger - Standard,0,0,4,33,6,"1,699",40,0,0,0,6,0,0,"1,788"
+,Light Truck,0,0,3,635,1,"2,023",28,0,0,0,2,0,0,"2,692"
+,Heavy Truck,0,0,0,166,0,29,0,0,0,0,0,0,0,195
+GENOLA,Motorcycle - Standard,0,0,0,0,0,51,0,0,0,0,0,0,0,51
+,Passenger - Standard,0,0,2,9,4,482,12,0,0,0,3,0,0,512
+,Light Truck,0,0,3,235,3,691,7,0,0,0,0,0,0,939
+,Heavy Truck,0,0,0,95,0,9,0,0,0,0,0,0,0,104
+GLENDALE,Motorcycle - Standard,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+,Passenger - Standard,0,0,0,3,0,137,3,0,0,0,1,0,0,144
+,Light Truck,0,0,0,108,0,277,2,0,0,0,1,0,0,388
+,Heavy Truck,0,0,0,28,0,3,0,0,0,0,0,0,0,31
+GLENWOOD,Motorcycle - Standard,0,0,0,0,0,22,0,0,0,0,0,0,0,22
+,Passenger - Standard,0,0,2,8,0,212,4,0,0,0,0,0,0,226
+,Light Truck,0,0,1,115,1,352,5,0,0,0,1,0,0,475
+,Heavy Truck,0,0,0,20,0,2,0,0,0,0,0,0,0,22
+GOSHEN,Motorcycle - Standard,0,0,0,0,1,16,0,0,0,0,0,0,0,17
+,Passenger - Standard,0,0,2,3,0,338,4,0,0,0,1,0,0,348
+,Light Truck,0,0,0,119,1,414,2,0,0,0,2,0,0,538
+,Heavy Truck,0,0,0,46,0,7,0,0,0,0,0,0,0,53
+GRANTSVILLE,Motorcycle - Standard,0,0,0,0,0,539,0,0,0,0,0,0,0,539
+,Passenger - Standard,0,0,10,95,41,"6,403",155,0,0,0,24,0,0,"6,728"
+,Light Truck,0,0,12,"2,068",27,"6,830",76,0,0,0,13,0,0,"9,026"
+,Heavy Truck,0,0,0,308,0,104,0,0,0,0,0,0,0,412
+GREEN RIVER,Motorcycle - Standard,0,0,0,0,0,20,0,0,0,0,0,0,0,20
+,Passenger - Standard,0,0,1,10,0,385,7,0,0,0,3,0,0,406
+,Light Truck,0,0,0,173,0,582,4,0,0,0,1,0,0,760
+,Heavy Truck,0,0,0,72,0,7,0,0,0,0,0,0,0,79
+GREENVILLE,Passenger - Standard,0,0,0,0,0,61,1,0,0,0,0,0,0,62
+,Light Truck,0,0,0,38,0,96,1,0,0,0,0,0,0,135
+,Heavy Truck,0,0,0,6,0,1,0,0,0,0,0,0,0,7
+GUNNISON,Motorcycle - Standard,0,0,0,0,1,56,0,0,0,0,0,0,0,57
+,Passenger - Standard,0,0,1,10,3,736,10,0,0,0,1,0,0,761
+,Light Truck,0,0,1,279,1,"1,218",6,0,0,0,1,0,0,"1,506"
+,Heavy Truck,0,0,0,99,0,13,0,0,0,0,0,0,0,112
+HANKSVILLE,Motorcycle - Standard,0,0,0,0,0,10,0,0,0,0,0,0,0,10
+,Passenger - Standard,0,0,0,1,0,93,0,0,0,0,0,0,0,94
+,Light Truck,0,0,0,43,0,135,1,0,0,0,0,0,0,179
+,Heavy Truck,0,0,0,21,0,2,0,0,0,0,0,0,0,23
+HANNA,Motorcycle - Standard,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+,Passenger - Standard,0,0,0,2,0,91,1,0,0,0,0,0,0,94
+,Light Truck,0,0,0,70,0,162,3,0,0,0,0,0,0,235
+,Heavy Truck,0,0,0,10,0,1,0,0,0,0,0,0,0,11
+HARRISVILLE,Motorcycle - Standard,0,0,0,0,0,199,0,0,0,0,0,0,0,199
+,Passenger - Standard,0,0,4,16,9,"1,522",43,0,0,0,2,0,0,"1,596"
+,Light Truck,0,0,3,284,6,"1,855",42,0,0,0,2,1,0,"2,193"
+,Heavy Truck,0,0,0,43,0,24,0,0,0,0,0,0,0,67
+HATCH,Motorcycle - Standard,0,0,0,0,0,15,0,0,0,0,0,0,0,15
+,Passenger - Standard,0,0,1,0,0,106,0,0,0,0,2,0,0,109
+,Light Truck,0,0,0,92,0,309,3,0,0,0,0,0,0,404
+,Heavy Truck,0,0,0,39,0,2,0,0,0,0,0,0,0,41
+HEBER,Motorcycle - Standard,0,0,0,0,70,"1,002",0,0,0,2,0,0,0,"1,074"
+,Passenger - Standard,0,0,22,179,115,"8,518",212,0,0,0,26,0,0,"9,072"
+,Light Truck,0,0,17,"2,736",198,"15,396",322,0,0,0,77,0,0,"18,746"
+,Heavy Truck,0,0,3,938,0,168,0,0,0,0,0,0,0,"1,109"
+HELPER,Motorcycle - Standard,0,0,0,0,0,156,0,0,0,0,0,0,0,156
+,Passenger - Standard,0,0,7,18,1,"1,619",25,0,0,0,5,0,0,"1,675"
+,Light Truck,0,0,4,511,4,"2,314",10,0,0,0,2,0,0,"2,845"
+,Heavy Truck,0,0,0,145,0,30,0,0,0,0,0,0,0,175
+HENEFER,Motorcycle - Standard,0,0,0,0,0,38,0,0,0,0,0,0,0,38
+,Passenger - Standard,0,0,1,11,3,430,19,0,0,0,5,0,0,469
+,Light Truck,0,0,0,238,1,664,17,0,0,0,2,0,0,922
+,Heavy Truck,0,0,0,81,0,4,0,0,0,0,0,0,0,85
+HENRIEVILLE,Motorcycle - Standard,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+,Passenger - Standard,0,0,0,2,1,77,2,0,0,0,0,0,0,82
+,Light Truck,0,0,0,38,0,133,2,0,0,0,0,0,0,173
+,Heavy Truck,0,0,0,3,0,0,0,0,0,0,0,0,0,3
+HERRIMAN,Motorcycle - Standard,0,0,0,0,5,"1,373",0,0,0,0,0,0,0,"1,378"
+,Passenger - Standard,0,0,28,111,414,"16,383",677,0,0,0,101,0,0,"17,714"
+,Light Truck,0,0,16,"2,286",423,"21,518",630,0,0,0,124,1,0,"24,998"
+,Heavy Truck,0,0,0,501,0,171,0,0,0,0,0,1,0,673
+HIDEOUT,Motorcycle - Standard,0,0,0,0,1,23,0,0,0,0,0,0,0,24
+,Passenger - Standard,0,0,0,2,9,267,4,0,0,0,1,0,0,283
+,Light Truck,0,0,1,30,35,685,23,0,0,0,13,0,0,787
+,Heavy Truck,0,0,0,8,0,2,0,0,0,0,0,0,0,10
+HIGHLAND,Motorcycle - Standard,0,0,0,0,2,540,0,0,0,1,0,0,0,543
+,Passenger - Standard,0,0,13,54,232,"5,384",284,0,0,0,44,0,0,"6,011"
+,Light Truck,0,0,7,891,276,"8,229",356,0,0,0,70,0,0,"9,829"
+,Heavy Truck,0,0,0,251,0,56,0,0,0,0,0,0,0,307
+HILDALE,Motorcycle - Standard,0,0,0,0,0,15,0,0,0,0,0,0,0,15
+,Passenger - Standard,0,0,0,9,2,443,29,0,0,0,0,0,0,483
+,Light Truck,0,0,2,242,3,586,19,0,0,0,1,0,0,853
+,Heavy Truck,0,0,0,107,0,6,0,0,0,0,0,0,0,113
+HILL AIR FORCE BASE,Motorcycle - Standard,0,0,0,0,1,85,0,0,0,0,0,0,0,86
+,Passenger - Standard,0,0,0,8,7,601,19,0,0,0,0,0,0,635
+,Light Truck,0,0,0,32,8,"1,071",24,0,0,0,7,0,0,"1,142"
+,Heavy Truck,0,0,0,32,0,7,0,0,0,0,0,0,0,39
+HINCKLEY,Motorcycle - Standard,0,0,0,0,0,15,0,0,0,0,0,0,0,15
+,Passenger - Standard,0,0,1,6,0,369,2,0,0,0,0,0,0,378
+,Light Truck,0,0,0,165,0,480,0,0,0,0,1,0,0,646
+,Heavy Truck,0,0,0,24,0,4,0,0,0,0,0,0,0,28
+HOLDEN,Motorcycle - Standard,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+,Passenger - Standard,0,0,0,10,1,209,4,0,0,0,1,0,0,225
+,Light Truck,0,0,0,96,0,333,2,0,0,0,0,0,0,431
+,Heavy Truck,0,0,0,23,0,10,0,0,0,0,0,0,0,33
+HOLLADAY,Motorcycle - Standard,0,0,0,0,5,443,0,0,0,0,0,0,0,448
+,Passenger - Standard,0,0,10,45,210,"4,332",207,0,0,0,35,0,0,"4,839"
+,Light Truck,0,0,5,408,287,"6,766",332,0,0,0,97,0,0,"7,895"
+,Heavy Truck,0,0,0,50,0,36,0,0,0,0,0,0,0,86
+HONEYVILLE,Motorcycle - Standard,0,0,0,0,0,56,0,0,0,0,0,0,0,56
+,Passenger - Standard,0,0,2,19,4,546,17,0,0,0,3,0,0,591
+,Light Truck,0,0,3,259,1,651,6,0,0,0,0,0,0,920
+,Heavy Truck,0,0,0,54,0,5,0,0,0,0,0,0,0,59
+HOOPER,Motorcycle - Standard,0,0,0,0,1,331,0,0,0,0,0,0,0,332
+,Passenger - Standard,0,1,7,46,33,"3,185",81,0,0,1,13,0,0,"3,367"
+,Light Truck,0,0,4,"1,185",22,"4,074",82,0,0,0,17,0,0,"5,384"
+,Heavy Truck,0,0,0,215,0,65,0,0,0,0,0,0,0,280
+HOWELL,Motorcycle - Standard,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+,Passenger - Standard,0,0,0,3,0,96,4,0,0,0,0,0,0,103
+,Light Truck,0,0,1,73,0,118,1,0,0,0,0,0,0,193
+,Heavy Truck,0,0,0,15,0,2,0,0,0,0,0,0,0,17
+HUNTINGTON,Motorcycle - Standard,0,0,0,0,0,44,0,0,0,0,0,0,0,44
+,Passenger - Standard,0,0,2,27,0,"1,074",10,0,0,0,0,0,0,"1,113"
+,Light Truck,0,0,2,455,1,"1,489",9,0,0,0,1,0,0,"1,957"
+,Heavy Truck,0,0,0,232,0,31,0,0,0,0,0,0,0,263
+HUNTSVILLE,Motorcycle - Standard,0,0,0,0,2,204,0,0,0,0,0,0,0,206
+,Passenger - Standard,0,0,4,18,23,756,22,0,0,0,4,0,0,827
+,Light Truck,0,0,1,331,34,"1,538",48,0,0,0,3,0,0,"1,955"
+,Heavy Truck,0,0,0,58,0,17,0,0,0,0,0,0,0,75
+HURRICANE,Motorcycle - Standard,0,0,0,0,2,"1,093",0,0,0,1,0,0,0,"1,096"
+,Passenger - Standard,0,0,29,187,77,"8,122",388,1,0,0,38,0,0,"8,842"
+,Light Truck,0,0,33,"2,301",87,"11,792",233,0,0,0,38,1,0,"14,485"
+,Heavy Truck,0,0,2,862,0,243,0,0,0,0,0,4,0,"1,111"
+HYDE PARK,Motorcycle - Standard,0,0,0,0,1,237,0,0,0,1,0,0,0,239
+,Passenger - Standard,0,0,4,19,26,"1,626",61,0,0,0,13,0,0,"1,749"
+,Light Truck,0,0,2,290,25,"2,669",101,0,0,0,14,0,0,"3,101"
+,Heavy Truck,0,0,0,88,0,34,0,0,0,0,0,0,0,122
+HYRUM,Motorcycle - Standard,0,0,0,0,0,345,0,0,0,0,0,0,0,345
+,Passenger - Standard,0,0,0,43,25,"3,215",114,0,0,0,18,0,0,"3,415"
+,Light Truck,0,0,2,539,22,"4,535",76,0,0,0,7,0,0,"5,181"
+,Heavy Truck,0,0,1,128,0,30,0,0,0,0,0,0,0,159
+INDIANOLA,Motorcycle - Standard,0,0,0,0,0,4,0,0,0,0,0,0,0,4
+,Passenger - Standard,0,0,0,2,0,69,1,0,0,0,1,0,0,73
+,Light Truck,0,0,0,45,0,102,1,0,0,0,2,0,0,150
+,Heavy Truck,0,0,0,7,0,0,0,0,0,0,0,0,0,7
+IVINS,Motorcycle - Standard,0,0,0,0,4,440,0,0,0,1,0,0,0,445
+,Passenger - Standard,0,0,7,58,61,"3,511",192,0,0,0,26,0,0,"3,855"
+,Light Truck,0,0,10,615,59,"4,993",187,0,0,0,40,0,0,"5,904"
+,Heavy Truck,0,0,1,161,0,61,0,0,0,0,0,0,0,223
+JENSEN,Motorcycle - Standard,0,0,0,0,0,33,0,0,0,0,0,0,0,33
+,Passenger - Standard,0,0,1,2,0,231,4,0,0,0,0,0,0,238
+,Light Truck,0,0,0,215,0,515,3,0,0,0,0,0,0,733
+,Heavy Truck,0,0,0,45,0,8,0,0,0,0,0,0,0,53
+JOSEPH,Motorcycle - Standard,0,0,0,0,0,22,0,0,0,0,0,0,0,22
+,Passenger - Standard,0,0,1,1,0,204,2,0,0,0,1,0,0,209
+,Light Truck,0,0,2,72,0,285,2,0,0,0,2,0,0,363
+,Heavy Truck,0,0,0,10,0,6,0,0,0,0,0,0,0,16
+JUNCTION,Motorcycle - Standard,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+,Passenger - Standard,0,0,0,1,0,127,2,0,0,0,1,0,0,131
+,Light Truck,0,0,1,69,0,137,0,0,0,0,0,0,0,207
+,Heavy Truck,0,0,0,46,0,5,0,0,0,0,0,0,0,51
+KAMAS,Motorcycle - Standard,0,0,0,0,0,336,0,0,0,0,0,0,0,336
+,Passenger - Standard,0,0,4,36,41,"2,254",64,0,0,0,5,0,0,"2,404"
+,Light Truck,0,0,5,"1,082",75,"4,813",139,0,0,0,39,0,0,"6,153"
+,Heavy Truck,0,0,0,274,0,56,0,0,0,0,0,0,0,330
+KANAB,Motorcycle - Standard,0,0,0,0,0,281,0,0,0,0,0,0,0,281
+,Passenger - Standard,0,0,2,57,17,"1,894",69,0,0,0,4,0,0,"2,043"
+,Light Truck,0,0,4,723,12,"4,223",56,0,0,0,6,0,0,"5,024"
+,Heavy Truck,0,0,0,273,0,61,0,0,0,0,0,0,0,334
+KANARRAVILLE,Motorcycle - Standard,0,0,0,0,0,15,0,0,0,0,0,0,0,15
+,Passenger - Standard,0,0,0,4,1,166,6,0,0,0,1,0,0,178
+,Light Truck,0,0,1,129,1,368,2,0,0,0,0,0,0,501
+,Heavy Truck,0,0,0,22,0,6,0,0,0,0,0,0,0,28
+KANOSH,Motorcycle - Standard,0,0,0,0,0,24,0,0,0,0,0,0,0,24
+,Passenger - Standard,0,0,2,4,0,279,10,0,0,0,1,0,0,296
+,Light Truck,0,0,1,122,2,410,3,0,0,0,0,0,0,538
+,Heavy Truck,0,0,0,26,0,7,0,0,0,0,0,0,0,33
+KAYSVILLE,Motorcycle - Standard,0,0,0,0,1,903,0,0,0,1,0,0,0,905
+,Passenger - Standard,0,0,39,121,250,"10,242",454,0,0,0,63,0,0,"11,169"
+,Light Truck,0,0,7,"1,226",263,"13,077",477,0,0,0,82,0,0,"15,132"
+,Heavy Truck,0,0,0,240,0,127,0,0,0,0,0,0,0,367
+KEARNS,Motorcycle - Standard,0,0,0,0,0,495,0,0,0,1,0,0,0,496
+,Passenger - Standard,0,0,11,22,44,"6,675",145,0,0,0,8,0,0,"6,905"
+,Light Truck,0,0,11,548,14,"6,997",67,0,0,0,6,0,0,"7,643"
+,Heavy Truck,0,0,0,137,0,60,0,0,0,0,0,0,0,197
+KENILWORTH,Motorcycle - Standard,0,0,0,0,0,12,0,0,0,0,0,0,0,12
+,Passenger - Standard,0,0,0,3,0,75,3,0,0,0,0,0,0,81
+,Light Truck,0,0,0,20,0,123,1,0,0,0,0,0,0,144
+,Heavy Truck,0,0,0,2,0,2,0,0,0,0,0,0,0,4
+KINGSTON,Motorcycle - Standard,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+,Passenger - Standard,0,0,0,2,0,56,0,0,0,0,0,0,0,58
+,Light Truck,0,0,0,48,0,91,1,0,0,0,0,0,0,140
+,Heavy Truck,0,0,0,19,0,0,0,0,0,0,0,0,0,19
+KOOSHAREM,Motorcycle - Standard,0,0,0,0,0,13,0,0,0,0,0,0,0,13
+,Passenger - Standard,0,0,0,4,0,129,0,0,0,0,0,0,0,133
+,Light Truck,0,0,1,81,0,226,1,0,0,0,1,0,0,310
+,Heavy Truck,0,0,0,15,0,7,0,0,0,0,0,0,0,22
+LA SAL,Motorcycle - Standard,0,0,0,0,0,32,0,0,0,0,0,0,0,32
+,Passenger - Standard,0,0,0,5,0,172,8,0,0,0,0,0,0,185
+,Light Truck,0,0,1,126,0,417,4,0,0,0,0,0,0,548
+,Heavy Truck,0,0,0,16,0,2,0,0,0,0,0,0,0,18
+LA VERKIN,Motorcycle - Standard,0,0,0,0,0,181,0,0,0,0,0,0,0,181
+,Passenger - Standard,0,0,6,33,9,"1,648",66,0,0,0,7,0,0,"1,769"
+,Light Truck,0,0,5,378,6,"2,102",28,0,0,0,4,0,0,"2,523"
+,Heavy Truck,0,0,0,66,0,13,0,0,0,0,0,0,0,79
+LAKE POINT,Motorcycle - Standard,0,0,0,0,0,110,0,0,0,0,0,0,0,110
+,Passenger - Standard,0,0,5,13,21,"1,020",37,0,0,0,5,0,0,"1,101"
+,Light Truck,0,0,2,354,8,"1,315",40,0,0,0,3,0,0,"1,722"
+,Heavy Truck,0,0,0,88,0,34,0,0,0,0,0,0,0,122
+LAKETOWN,Motorcycle - Standard,0,0,0,0,0,14,0,0,0,0,0,0,0,14
+,Passenger - Standard,0,0,0,3,1,214,0,0,0,0,0,0,0,218
+,Light Truck,0,0,0,131,0,322,4,0,0,0,0,0,0,457
+,Heavy Truck,0,0,0,32,0,8,0,0,0,0,0,0,0,40
+LAPOINT,Motorcycle - Standard,0,0,0,0,0,33,0,0,0,0,0,0,0,33
+,Passenger - Standard,0,0,0,4,1,283,0,0,0,0,1,0,0,289
+,Light Truck,0,0,0,223,0,578,0,0,0,0,0,0,0,801
+,Heavy Truck,0,0,0,72,0,3,0,0,0,0,0,0,0,75
+LAYTON,Motorcycle - Standard,0,0,0,0,4,"2,146",0,0,0,0,0,0,0,"2,150"
+,Passenger - Standard,0,0,60,205,427,"25,854",997,0,0,0,127,0,0,"27,670"
+,Light Truck,0,0,24,"2,433",317,"29,627",883,0,0,0,121,0,0,"33,405"
+,Heavy Truck,0,0,1,676,0,301,0,0,0,0,0,0,0,978
+LEAMINGTON,Motorcycle - Standard,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+,Passenger - Standard,0,0,0,4,1,131,1,0,0,0,2,0,0,139
+,Light Truck,0,0,0,83,0,131,0,0,0,0,0,0,0,214
+,Heavy Truck,0,0,0,8,0,2,0,0,0,0,0,0,0,10
+LEEDS,Motorcycle - Standard,0,0,0,0,0,76,0,0,0,0,0,0,0,76
+,Passenger - Standard,0,0,2,22,10,502,22,0,0,0,1,0,0,559
+,Light Truck,0,0,1,225,6,753,17,0,0,0,2,0,0,"1,004"
+,Heavy Truck,0,0,0,34,0,20,0,0,0,0,0,0,0,54
+LEHI,Motorcycle - Standard,0,0,0,0,9,"1,627",0,0,0,0,0,0,0,"1,636"
+,Passenger - Standard,0,0,44,156,705,"20,844",941,0,1,0,142,0,0,"22,833"
+,Light Truck,0,0,22,"2,645",761,"29,077",945,0,0,0,178,0,0,"33,628"
+,Heavy Truck,0,0,1,"1,136",0,221,0,0,1,0,0,1,0,"1,360"
+LEVAN,Motorcycle - Standard,0,0,0,0,0,24,0,0,0,0,0,0,0,24
+,Passenger - Standard,0,0,0,13,1,500,13,0,0,0,0,0,0,527
+,Light Truck,0,0,0,250,0,604,6,0,0,0,0,0,0,860
+,Heavy Truck,0,0,0,41,0,11,0,0,0,0,0,0,0,52
+LEWISTON,Motorcycle - Standard,0,0,0,0,0,68,0,0,0,0,0,0,0,68
+,Passenger - Standard,0,0,1,14,1,614,22,0,0,0,4,0,0,656
+,Light Truck,0,0,0,201,1,900,16,0,0,0,0,0,0,"1,118"
+,Heavy Truck,0,0,0,114,0,15,0,0,0,0,0,2,0,131
+LIBERTY,Motorcycle - Standard,0,0,0,0,0,73,0,0,0,0,0,0,0,73
+,Passenger - Standard,0,0,1,6,7,298,7,0,0,0,5,0,0,324
+,Light Truck,0,0,2,170,11,661,18,0,0,0,5,0,0,867
+,Heavy Truck,0,0,0,40,0,10,0,0,0,0,0,0,0,50
+LINDON,Motorcycle - Standard,0,0,0,0,4,362,0,0,0,0,0,0,0,366
+,Passenger - Standard,0,0,19,19,88,"3,605",179,0,0,0,25,0,0,"3,935"
+,Light Truck,0,0,9,775,89,"5,459",199,0,0,0,20,0,0,"6,551"
+,Heavy Truck,0,0,1,563,0,91,0,0,0,0,0,0,0,655
+LOA,Motorcycle - Standard,0,0,0,0,0,13,0,0,0,0,0,0,0,13
+,Passenger - Standard,0,0,1,10,1,254,9,0,0,0,0,0,0,275
+,Light Truck,0,0,4,245,0,539,2,0,0,0,2,0,0,792
+,Heavy Truck,0,0,0,170,0,20,0,0,0,0,0,0,0,190
+LOGAN,Motorcycle - Standard,0,0,0,0,10,"1,231",0,0,0,0,0,0,0,"1,241"
+,Passenger - Standard,0,0,37,121,127,"15,443",597,0,0,0,92,0,0,"16,417"
+,Light Truck,0,0,20,"1,226",110,"18,637",504,0,0,0,48,0,0,"20,545"
+,Heavy Truck,0,0,13,"1,270",1,326,0,0,0,0,0,13,0,"1,623"
+LYMAN,Motorcycle - Standard,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+,Passenger - Standard,0,0,1,2,1,94,3,0,0,0,0,0,0,101
+,Light Truck,0,0,0,80,2,177,0,0,0,0,0,0,0,259
+,Heavy Truck,0,0,0,27,0,1,0,0,0,0,0,0,0,28
+MAGNA,Motorcycle - Standard,0,0,0,0,3,739,0,0,0,0,0,0,0,742
+,Passenger - Standard,0,0,16,29,68,"10,072",213,0,0,0,27,0,0,"10,425"
+,Light Truck,0,0,12,955,44,"10,329",144,0,0,0,16,0,0,"11,500"
+,Heavy Truck,0,0,0,359,0,103,0,0,0,0,0,0,0,462
+MANILA,Motorcycle - Standard,0,0,0,0,0,48,0,0,0,0,0,0,0,48
+,Passenger - Standard,0,0,0,4,0,477,4,0,0,0,1,0,0,486
+,Light Truck,0,0,4,395,0,834,9,0,0,0,0,0,0,"1,242"
+,Heavy Truck,0,0,0,81,0,28,0,0,0,0,0,0,0,109
+MANTI,Motorcycle - Standard,0,0,0,0,0,84,0,0,0,0,0,0,0,84
+,Passenger - Standard,0,0,4,15,9,"1,648",51,0,0,0,3,0,0,"1,730"
+,Light Truck,0,0,3,416,5,"2,094",17,0,0,0,2,0,0,"2,537"
+,Heavy Truck,0,0,0,159,0,30,0,0,0,0,0,0,0,189
+MANTUA,Motorcycle - Standard,0,0,0,0,0,57,0,0,0,0,0,0,0,57
+,Passenger - Standard,0,0,4,20,7,558,12,0,0,0,8,0,0,609
+,Light Truck,0,0,1,198,8,688,25,0,0,0,2,1,0,923
+,Heavy Truck,0,0,0,49,0,15,0,0,0,0,0,0,0,64
+MAPLETON,Motorcycle - Standard,0,0,0,0,1,422,0,0,0,0,0,0,0,423
+,Passenger - Standard,0,0,15,37,142,"3,734",175,0,1,0,28,0,0,"4,132"
+,Light Truck,0,0,8,796,149,"5,724",190,0,0,0,42,0,0,"6,909"
+,Heavy Truck,0,0,0,369,0,65,0,0,0,0,0,0,0,434
+MARRIOTT-SLATERVILLE,Motorcycle - Standard,0,0,0,0,0,16,0,0,0,0,0,0,0,16
+,Passenger - Standard,0,0,0,0,0,128,5,0,0,0,1,0,0,134
+,Light Truck,0,0,1,77,1,187,4,0,0,0,0,0,0,270
+,Heavy Truck,0,0,0,38,0,5,0,0,0,0,0,0,0,43
+MARYSVALE,Motorcycle - Standard,0,0,0,0,0,36,0,0,0,0,0,0,0,36
+,Passenger - Standard,0,0,1,2,0,241,3,0,0,0,1,0,0,248
+,Light Truck,0,0,0,130,2,424,2,0,0,0,1,0,0,559
+,Heavy Truck,0,0,0,27,0,11,0,0,0,0,0,0,0,38
+MAYFIELD,Motorcycle - Standard,0,0,0,0,0,25,0,0,0,0,0,0,0,25
+,Passenger - Standard,0,0,1,4,2,265,6,0,0,0,1,0,0,279
+,Light Truck,0,0,2,132,0,452,3,0,0,0,0,1,0,590
+,Heavy Truck,0,0,0,21,0,4,0,0,0,0,0,0,0,25
+MEADOW,Motorcycle - Standard,0,0,0,0,0,13,0,0,0,0,0,0,0,13
+,Passenger - Standard,0,0,1,3,0,190,4,0,0,0,0,0,0,198
+,Light Truck,0,0,0,66,0,244,2,0,0,0,0,0,0,312
+,Heavy Truck,0,0,0,13,0,1,0,0,0,0,0,0,0,14
+MENDON,Motorcycle - Standard,0,0,0,0,0,87,0,0,0,0,0,0,0,87
+,Passenger - Standard,0,0,1,10,10,770,56,0,0,0,6,0,0,853
+,Light Truck,0,0,0,234,8,"1,144",33,0,0,0,5,0,0,"1,424"
+,Heavy Truck,0,0,0,63,0,10,0,0,0,0,0,0,0,73
+MEXICAN HAT,Motorcycle - Standard,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+,Passenger - Standard,0,0,0,0,0,67,1,0,0,0,0,0,0,68
+,Light Truck,0,0,0,18,0,139,1,0,0,0,0,0,0,158
+,Heavy Truck,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+MIDVALE,Motorcycle - Standard,0,0,0,0,0,742,0,0,0,0,0,0,0,742
+,Passenger - Standard,0,0,14,56,154,"15,795",467,0,0,0,65,0,0,"16,551"
+,Light Truck,0,0,19,"5,352",144,"26,748",768,0,0,0,342,1,0,"33,374"
+,Heavy Truck,0,0,66,"1,630",0,176,0,0,0,0,0,0,0,"1,872"
+MIDWAY,Motorcycle - Standard,0,0,0,0,3,365,0,0,0,0,0,0,0,368
+,Passenger - Standard,0,0,5,52,66,"2,096",69,0,0,0,8,0,0,"2,296"
+,Light Truck,0,0,4,612,142,"4,530",148,0,0,0,36,0,0,"5,472"
+,Heavy Truck,0,0,0,115,0,40,0,0,0,0,0,0,0,155
+MILFORD,Motorcycle - Standard,0,0,0,0,0,38,0,0,0,0,0,0,0,38
+,Passenger - Standard,0,0,0,5,1,627,14,0,0,0,3,0,0,650
+,Light Truck,0,0,1,263,0,"1,014",10,0,0,0,0,0,0,"1,288"
+,Heavy Truck,0,0,0,118,0,15,0,0,0,0,0,1,0,134
+MILLCREEK,Motorcycle - Standard,0,0,0,0,4,211,0,0,0,0,0,0,0,215
+,Passenger - Standard,0,0,5,22,89,"2,285",127,0,0,0,21,0,0,"2,549"
+,Light Truck,0,0,2,116,98,"2,821",144,0,0,0,21,0,0,"3,202"
+,Heavy Truck,0,0,0,22,0,13,0,0,0,0,0,0,0,35
+MILLVILLE,Motorcycle - Standard,0,0,0,0,0,88,0,0,0,0,0,0,0,88
+,Passenger - Standard,0,0,1,5,6,737,26,0,0,0,2,0,0,777
+,Light Truck,0,0,1,169,5,"1,128",25,0,0,0,4,0,0,"1,332"
+,Heavy Truck,0,0,0,48,0,13,0,0,0,0,0,0,0,61
+MINERSVILLE,Motorcycle - Standard,0,0,0,0,0,11,0,0,0,0,0,0,0,11
+,Passenger - Standard,0,0,0,6,2,325,7,0,0,0,0,0,0,340
+,Light Truck,0,0,2,191,0,546,4,0,0,0,0,0,0,743
+,Heavy Truck,0,0,0,40,0,3,0,0,0,0,0,0,0,43
+MOAB,Motorcycle - Standard,0,0,0,0,9,691,0,0,0,0,0,0,0,700
+,Passenger - Standard,0,0,3,54,22,"3,217",147,0,0,0,12,0,0,"3,455"
+,Light Truck,0,0,6,"1,108",25,"7,329",107,0,0,0,22,0,0,"8,597"
+,Heavy Truck,0,0,2,364,0,104,0,0,0,0,0,0,0,470
+MONA,Motorcycle - Standard,0,0,0,0,0,70,0,0,0,0,0,0,0,70
+,Passenger - Standard,0,0,7,30,3,"1,084",24,0,0,0,5,0,0,"1,153"
+,Light Truck,0,0,3,644,5,"1,389",8,0,0,0,2,0,0,"2,051"
+,Heavy Truck,0,0,1,744,0,30,0,0,0,0,0,0,0,775
+MONROE,Motorcycle - Standard,0,0,0,0,0,110,0,0,0,0,0,0,0,110
+,Passenger - Standard,0,0,10,12,4,"1,224",30,0,0,0,3,0,0,"1,283"
+,Light Truck,0,0,3,568,1,"1,865",25,0,0,0,6,0,0,"2,468"
+,Heavy Truck,0,0,0,117,0,24,0,0,0,0,0,0,0,141
+MONTEZUMA CREEK,Motorcycle - Standard,0,0,0,0,0,25,0,0,0,0,0,0,0,25
+,Passenger - Standard,0,0,0,0,1,284,5,0,0,0,1,0,0,291
+,Light Truck,0,0,0,85,1,707,15,0,0,0,0,0,0,808
+,Heavy Truck,0,0,0,30,0,3,0,0,0,0,0,0,0,33
+MONTICELLO,Motorcycle - Standard,0,0,0,0,0,98,0,0,0,1,0,0,0,99
+,Passenger - Standard,0,0,0,14,1,694,22,0,0,0,0,0,0,731
+,Light Truck,0,0,3,380,1,"1,616",17,0,0,0,2,0,0,"2,019"
+,Heavy Truck,0,0,0,196,0,16,0,0,0,0,0,0,0,212
+MONUMENT VALLEY,Motorcycle - Standard,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+,Passenger - Standard,0,0,0,2,0,93,4,0,0,0,0,0,0,99
+,Light Truck,0,0,0,37,0,263,5,0,0,0,0,0,0,305
+,Heavy Truck,0,0,0,4,0,1,0,0,0,0,0,0,0,5
+MORGAN,Motorcycle - Standard,0,0,0,0,0,346,0,0,0,0,0,0,0,346
+,Passenger - Standard,0,0,12,89,51,"3,883",131,0,0,0,11,0,1,"4,178"
+,Light Truck,0,0,9,"1,737",70,"5,547",133,0,0,0,20,0,0,"7,516"
+,Heavy Truck,0,0,3,587,0,92,0,0,0,0,0,0,0,682
+MORONI,Motorcycle - Standard,0,0,0,0,0,45,0,0,0,0,0,0,0,45
+,Passenger - Standard,0,0,1,18,2,929,14,0,0,0,2,0,0,966
+,Light Truck,0,0,2,362,0,"1,135",8,0,0,0,0,0,0,"1,507"
+,Heavy Truck,0,0,0,107,0,17,0,0,0,0,0,0,0,124
+MOUNT CARMEL,Motorcycle - Standard,0,0,0,0,0,3,0,0,0,0,0,0,0,3
+,Passenger - Standard,0,0,0,2,1,68,2,0,0,0,0,0,0,73
+,Light Truck,0,0,0,42,0,137,1,0,0,0,0,0,0,180
+,Heavy Truck,0,0,0,30,1,4,0,0,0,0,0,0,0,35
+MOUNT PLEASANT,Motorcycle - Standard,0,0,0,0,0,164,0,0,0,0,0,0,0,164
+,Passenger - Standard,0,0,8,38,12,"1,932",40,0,0,0,10,0,0,"2,040"
+,Light Truck,0,0,7,755,6,"2,549",28,0,0,0,3,0,0,"3,348"
+,Heavy Truck,0,0,1,214,0,53,0,0,1,0,0,0,0,269
+MOUNTAIN GREEN,Motorcycle - Standard,0,0,0,0,0,89,0,0,0,1,0,0,0,90
+,Passenger - Standard,0,0,2,15,14,844,43,0,0,0,5,0,0,923
+,Light Truck,0,0,2,276,35,"1,359",49,0,0,0,12,0,0,"1,733"
+,Heavy Truck,0,0,0,49,0,17,0,0,0,0,0,0,0,66
+MOUNTAIN HOME,Motorcycle - Standard,0,0,0,0,0,4,0,0,0,0,0,0,0,4
+,Passenger - Standard,0,0,0,0,0,64,1,0,0,0,0,0,0,65
+,Light Truck,0,0,0,87,0,179,3,0,0,0,0,0,0,269
+,Heavy Truck,0,0,0,35,0,2,0,0,0,0,0,0,0,37
+MURRAY,Motorcycle - Standard,0,0,0,0,2,"1,009",0,0,0,0,0,0,0,"1,011"
+,Passenger - Standard,0,0,15,58,232,"11,193",462,0,0,0,78,0,0,"12,038"
+,Light Truck,0,0,14,920,238,"13,365",451,0,0,0,62,0,0,"15,050"
+,Heavy Truck,0,0,3,700,0,230,0,0,0,0,0,5,0,938
+MYTON,Motorcycle - Standard,0,0,0,0,0,33,0,0,0,0,0,0,0,33
+,Passenger - Standard,0,0,1,6,0,444,4,0,0,0,0,0,0,455
+,Light Truck,0,0,2,246,0,868,5,0,0,0,1,0,0,"1,122"
+,Heavy Truck,0,0,0,223,0,9,0,0,0,0,0,0,0,232
+NAPLES,Motorcycle - Standard,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+,Passenger - Standard,0,0,0,0,0,120,2,0,0,0,1,0,0,123
+,Light Truck,0,0,0,67,0,265,1,0,0,0,0,0,0,333
+,Heavy Truck,0,0,0,91,4,2,0,0,0,0,0,1,0,98
+NEOLA,Motorcycle - Standard,0,0,0,0,0,29,0,0,0,0,0,0,0,29
+,Passenger - Standard,0,0,0,0,0,202,3,0,0,0,2,0,0,207
+,Light Truck,0,0,0,186,0,440,1,0,0,0,0,0,0,627
+,Heavy Truck,0,0,0,60,0,9,0,0,0,0,0,0,0,69
+NEPHI,Motorcycle - Standard,0,0,0,0,4,265,0,0,0,0,0,0,0,269
+,Passenger - Standard,0,0,8,46,22,"3,244",94,0,0,0,5,0,0,"3,419"
+,Light Truck,0,0,15,"1,398",10,"4,068",46,0,0,0,4,0,0,"5,541"
+,Heavy Truck,0,0,2,552,0,161,0,0,0,0,0,0,0,715
+NEW HARMONY,Motorcycle - Standard,0,0,0,0,0,93,0,0,0,0,0,0,0,93
+,Passenger - Standard,0,0,6,21,9,511,29,0,0,0,6,0,0,582
+,Light Truck,0,0,1,336,5,"1,141",26,0,0,0,4,0,0,"1,513"
+,Heavy Truck,0,0,0,53,0,19,0,0,0,0,0,0,0,72
+NEWCASTLE,Motorcycle - Standard,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+,Passenger - Standard,0,0,1,2,1,154,3,0,0,0,1,0,0,162
+,Light Truck,0,0,0,78,0,193,2,0,0,0,0,0,0,273
+,Heavy Truck,0,0,0,39,0,0,0,0,0,0,0,0,0,39
+NEWTON,Motorcycle - Standard,0,0,0,0,0,25,0,0,0,0,0,0,0,25
+,Passenger - Standard,0,0,1,5,3,367,14,0,0,0,3,0,0,393
+,Light Truck,0,0,0,106,1,482,11,0,0,0,0,0,0,600
+,Heavy Truck,0,0,0,29,0,13,0,0,0,0,0,0,0,42
+NIBLEY,Motorcycle - Standard,0,0,0,0,0,233,0,0,0,0,0,0,0,233
+,Passenger - Standard,0,0,3,17,19,"1,786",62,0,0,0,12,0,0,"1,899"
+,Light Truck,0,0,3,318,19,"2,669",67,0,0,0,8,0,0,"3,084"
+,Heavy Truck,0,0,0,52,0,15,0,0,0,0,0,0,0,67
+NORTH LOGAN,Motorcycle - Standard,0,0,0,0,4,268,0,0,0,0,0,0,0,272
+,Passenger - Standard,0,0,4,29,45,"2,357",97,0,0,0,4,0,0,"2,536"
+,Light Truck,0,0,2,314,37,"3,360",157,0,0,0,15,0,0,"3,885"
+,Heavy Truck,0,0,0,92,0,83,0,0,0,0,0,0,0,175
+NORTH OGDEN,Motorcycle - Standard,0,0,0,0,2,573,0,0,0,0,0,0,0,575
+,Passenger - Standard,0,0,12,47,73,"4,504",170,0,0,0,27,0,0,"4,833"
+,Light Truck,0,0,6,789,88,"6,204",208,0,0,0,37,0,0,"7,332"
+,Heavy Truck,0,0,0,155,0,54,0,0,0,0,0,0,0,209
+NORTH SALT LAKE,Motorcycle - Standard,0,0,0,0,5,545,0,0,0,0,0,0,0,550
+,Passenger - Standard,0,0,6,63,202,"6,240",272,0,0,0,52,0,0,"6,835"
+,Light Truck,0,0,10,653,313,"9,160",331,0,0,0,54,0,0,"10,521"
+,Heavy Truck,0,0,1,793,0,187,0,0,0,0,0,0,0,981
+OAK CITY,Motorcycle - Standard,0,0,0,0,0,31,0,0,0,0,0,0,0,31
+,Passenger - Standard,0,0,1,12,3,356,9,0,0,0,0,0,0,381
+,Light Truck,0,0,0,159,0,460,8,0,0,0,1,0,0,628
+,Heavy Truck,0,0,0,28,0,5,0,0,0,0,0,0,0,33
+OAKLEY,Motorcycle - Standard,0,0,0,0,2,112,0,0,0,0,0,0,0,114
+,Passenger - Standard,0,0,2,11,7,695,25,0,0,0,5,0,0,745
+,Light Truck,0,0,0,411,16,"1,350",29,0,0,0,5,0,0,"1,811"
+,Heavy Truck,0,0,0,123,0,24,0,0,0,0,0,0,0,147
+OGDEN,Motorcycle - Standard,0,0,0,0,4,"3,343",0,0,0,0,0,0,0,"3,347"
+,Passenger - Standard,0,0,59,315,368,"40,501","1,197",0,0,1,155,0,0,"42,596"
+,Light Truck,0,0,49,"5,059",286,"46,635",973,0,0,0,115,0,0,"53,117"
+,Heavy Truck,0,0,14,"3,427",2,568,0,0,0,1,0,0,0,"4,012"
+ORANGEVILLE,Motorcycle - Standard,0,0,0,0,0,46,0,0,0,0,0,0,0,46
+,Passenger - Standard,0,0,0,7,1,497,9,0,0,0,2,0,0,516
+,Light Truck,0,0,3,214,0,813,3,0,0,0,1,0,0,"1,034"
+,Heavy Truck,0,0,0,42,0,8,0,0,0,0,0,0,0,50
+ORDERVILLE,Motorcycle - Standard,0,0,0,0,0,10,0,0,0,0,0,0,0,10
+,Passenger - Standard,0,0,0,3,0,222,2,0,0,0,3,0,0,230
+,Light Truck,0,0,0,93,0,369,0,0,0,0,0,1,0,463
+,Heavy Truck,0,0,0,30,0,3,0,0,0,0,0,0,0,33
+OREM,Motorcycle - Standard,0,0,0,0,13,"1,877",0,0,0,0,0,0,0,"1,890"
+,Passenger - Standard,0,0,82,218,437,"31,453","1,246",0,1,0,152,1,0,"33,590"
+,Light Truck,0,0,45,"2,124",357,"31,693",898,0,0,0,106,1,0,"35,224"
+,Heavy Truck,0,0,68,"2,236",0,638,1,0,0,1,0,0,0,"2,944"
+PANGUITCH,Motorcycle - Standard,0,0,0,0,0,74,0,0,0,0,0,0,0,74
+,Passenger - Standard,0,0,1,22,5,781,15,0,0,0,1,0,0,825
+,Light Truck,0,0,2,435,5,"1,535",18,0,0,0,1,0,0,"1,996"
+,Heavy Truck,0,0,0,161,0,20,0,0,0,0,0,0,0,181
+PARADISE,Motorcycle - Standard,0,0,0,0,3,67,0,0,0,0,0,0,0,70
+,Passenger - Standard,0,0,5,13,2,545,12,0,0,0,4,0,0,581
+,Light Truck,0,0,1,261,7,"1,046",18,0,0,0,2,0,0,"1,335"
+,Heavy Truck,0,0,0,63,0,15,0,0,0,0,0,0,0,78
+PARAGONAH,Motorcycle - Standard,0,0,0,0,0,22,0,0,0,0,0,0,0,22
+,Passenger - Standard,0,0,0,8,0,261,1,0,0,0,1,0,0,271
+,Light Truck,0,0,1,153,0,484,5,0,0,0,2,0,0,645
+,Heavy Truck,0,0,0,39,0,6,0,0,0,0,0,0,0,45
+PARK CITY,Motorcycle - Standard,0,0,0,0,10,"1,285",0,0,0,1,0,0,0,"1,296"
+,Passenger - Standard,0,0,20,159,488,"9,820",215,0,0,0,75,0,0,"10,777"
+,Light Truck,0,0,21,"2,181","1,045","23,736",879,0,0,0,370,0,0,"28,232"
+,Heavy Truck,0,0,9,611,28,191,0,0,0,0,0,4,0,843
+PARK VALLEY,Motorcycle - Standard,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+,Passenger - Standard,0,0,0,0,0,51,0,0,0,0,0,0,0,51
+,Light Truck,0,0,0,81,0,108,2,0,0,0,0,0,0,191
+,Heavy Truck,0,0,0,39,0,0,0,0,0,0,0,0,0,39
+PAROWAN,Motorcycle - Standard,0,0,0,0,2,177,0,0,0,0,0,0,0,179
+,Passenger - Standard,0,0,3,40,10,"1,211",47,0,0,0,0,0,0,"1,311"
+,Light Truck,0,0,1,604,11,"2,455",39,0,0,0,3,0,0,"3,113"
+,Heavy Truck,0,0,0,192,0,37,0,0,0,0,0,0,0,229
+PAYSON,Motorcycle - Standard,0,0,0,0,1,663,0,0,0,0,0,0,0,664
+,Passenger - Standard,0,0,11,84,61,"7,772",216,0,0,0,31,0,0,"8,175"
+,Light Truck,0,0,15,"1,403",50,"9,029",133,0,0,0,29,0,0,"10,659"
+,Heavy Truck,0,0,0,439,0,61,0,0,0,0,0,2,0,502
+PEOA,Motorcycle - Standard,0,0,0,0,0,29,0,0,0,0,0,0,0,29
+,Passenger - Standard,0,0,0,7,3,173,2,0,0,0,0,0,0,185
+,Light Truck,0,0,1,109,3,333,5,0,0,0,1,0,0,452
+,Heavy Truck,0,0,0,38,0,1,0,0,0,0,0,0,0,39
+PERRY,Motorcycle - Standard,0,0,0,0,0,195,0,0,0,0,0,0,0,195
+,Passenger - Standard,0,0,11,27,22,"2,007",55,0,0,0,10,0,0,"2,132"
+,Light Truck,0,0,4,416,15,"2,193",48,0,0,0,4,0,0,"2,680"
+,Heavy Truck,0,0,0,76,0,25,0,0,0,0,0,0,0,101
+PINE VALLEY,Motorcycle - Standard,0,0,0,0,0,13,0,0,0,0,0,0,0,13
+,Passenger - Standard,0,0,0,2,2,87,6,0,0,0,0,0,0,97
+,Light Truck,0,0,1,49,0,240,10,0,0,0,1,0,0,301
+,Heavy Truck,0,0,0,13,0,1,0,0,0,0,0,0,0,14
+PLAIN CITY,Motorcycle - Standard,0,0,0,0,0,255,0,0,0,1,0,0,0,256
+,Passenger - Standard,0,0,1,22,24,"2,064",52,0,0,0,12,0,0,"2,175"
+,Light Truck,0,0,3,781,14,"2,894",65,0,0,0,15,0,0,"3,772"
+,Heavy Truck,0,0,0,166,0,36,0,0,0,0,0,0,0,202
+PLEASANT GROVE,Motorcycle - Standard,0,0,0,0,5,904,0,0,0,0,0,0,0,909
+,Passenger - Standard,0,0,26,86,205,"11,356",451,0,0,0,61,0,0,"12,185"
+,Light Truck,0,0,15,"1,270",173,"13,182",366,0,0,0,44,0,0,"15,050"
+,Heavy Truck,0,0,3,545,4,174,0,0,0,0,0,0,0,726
+PLEASANT VIEW,Motorcycle - Standard,0,0,0,0,0,310,0,0,0,0,0,0,0,310
+,Passenger - Standard,0,0,4,40,54,"2,649",112,0,0,0,10,0,0,"2,869"
+,Light Truck,0,0,6,540,63,"3,455",115,0,0,0,24,0,0,"4,203"
+,Heavy Truck,0,0,0,121,0,29,0,0,0,0,0,0,0,150
+PLYMOUTH,Motorcycle - Standard,0,0,0,0,0,28,0,0,0,0,0,0,0,28
+,Passenger - Standard,0,0,0,3,0,222,8,0,0,0,2,0,0,235
+,Light Truck,0,0,1,120,0,280,2,0,0,0,0,0,0,403
+,Heavy Truck,0,0,0,38,0,3,0,0,0,0,0,0,0,41
+PORTAGE,Motorcycle - Standard,0,0,0,0,0,13,0,0,0,0,0,0,0,13
+,Passenger - Standard,0,0,0,7,0,141,9,0,0,0,1,0,0,158
+,Light Truck,0,0,0,83,0,163,1,0,0,0,0,0,0,247
+,Heavy Truck,0,0,0,13,0,3,0,0,0,0,0,0,0,16
+PRICE,Motorcycle - Standard,0,0,0,0,0,426,0,0,0,0,0,0,0,426
+,Passenger - Standard,0,0,10,63,14,"5,282",97,0,0,0,10,0,0,"5,476"
+,Light Truck,0,0,15,"1,527",10,"7,204",67,0,0,0,5,0,0,"8,828"
+,Heavy Truck,0,0,0,521,0,145,0,0,0,0,0,1,0,667
+PROVIDENCE,Motorcycle - Standard,0,0,0,0,2,325,1,0,0,0,0,0,0,328
+,Passenger - Standard,0,0,7,26,37,"2,585",98,0,0,0,11,0,0,"2,764"
+,Light Truck,0,0,3,361,48,"3,950",150,0,0,0,17,0,0,"4,529"
+,Heavy Truck,0,0,0,91,0,40,0,0,0,0,0,0,0,131
+PROVO,Motorcycle - Standard,0,0,0,0,13,"1,929",0,0,0,0,0,0,0,"1,942"
+,Passenger - Standard,0,0,59,232,462,"29,300","1,381",0,0,0,155,1,0,"31,590"
+,Light Truck,0,0,33,"1,662",362,"28,227",947,0,0,1,134,2,0,"31,368"
+,Heavy Truck,0,0,4,941,0,257,0,0,0,0,0,7,0,"1,209"
+RANDLETT,Motorcycle - Standard,0,0,0,0,0,17,0,0,0,0,0,0,0,17
+,Passenger - Standard,0,0,0,2,0,143,3,0,0,0,0,0,0,148
+,Light Truck,0,0,0,69,0,320,1,0,0,0,0,0,0,390
+,Heavy Truck,0,0,0,36,0,2,0,0,0,0,0,0,0,38
+RANDOLPH,Motorcycle - Standard,0,0,0,0,0,11,0,0,0,0,0,0,0,11
+,Passenger - Standard,0,0,1,4,0,287,0,0,0,0,0,0,0,292
+,Light Truck,0,0,0,201,0,497,1,0,0,0,0,0,0,699
+,Heavy Truck,0,0,0,82,0,6,0,0,0,0,0,0,0,88
+REDMOND,Motorcycle - Standard,0,0,0,0,0,14,0,0,0,0,0,0,0,14
+,Passenger - Standard,0,0,1,3,1,354,3,0,0,0,1,0,0,363
+,Light Truck,0,0,3,188,1,575,2,0,0,0,0,0,0,769
+,Heavy Truck,0,0,0,74,0,14,0,0,0,0,0,0,0,88
+RICHFIELD,Motorcycle - Standard,0,0,0,0,0,258,0,0,0,0,0,0,0,258
+,Passenger - Standard,0,0,10,30,8,"3,081",69,0,0,0,4,0,0,"3,202"
+,Light Truck,0,0,8,922,10,"4,369",43,0,0,0,8,0,0,"5,360"
+,Heavy Truck,0,0,7,538,0,78,0,0,0,0,0,0,0,623
+RICHMOND,Motorcycle - Standard,0,0,0,0,0,114,0,0,0,0,0,0,0,114
+,Passenger - Standard,0,0,3,11,5,960,27,0,0,0,3,0,0,"1,009"
+,Light Truck,0,0,2,223,3,"1,454",31,0,0,0,5,0,0,"1,718"
+,Heavy Truck,0,0,0,165,0,13,0,0,0,0,0,0,0,178
+RIVER HEIGHTS,Motorcycle - Standard,0,0,0,0,1,86,0,0,0,0,0,0,0,87
+,Passenger - Standard,0,0,1,11,14,483,18,0,0,0,3,0,0,530
+,Light Truck,0,0,1,55,12,713,21,0,0,0,3,0,0,805
+,Heavy Truck,0,0,0,17,0,5,0,0,0,0,0,0,0,22
+RIVERDALE,Motorcycle - Standard,0,0,0,0,1,223,0,0,0,1,0,0,0,225
+,Passenger - Standard,0,0,6,11,22,"2,295",52,0,0,0,6,0,0,"2,392"
+,Light Truck,0,0,1,230,12,"2,439",65,0,0,0,4,0,0,"2,751"
+,Heavy Truck,0,0,11,125,0,31,0,0,0,0,0,0,0,167
+RIVERSIDE,Motorcycle - Standard,0,0,0,0,0,15,0,0,0,0,0,0,0,15
+,Passenger - Standard,0,0,0,2,0,131,2,0,0,0,0,0,0,135
+,Light Truck,0,0,0,74,2,201,2,0,0,0,0,0,0,279
+,Heavy Truck,0,0,0,24,0,3,0,0,0,0,0,0,0,27
+RIVERTON,Motorcycle - Standard,0,0,0,0,0,"1,224",0,0,0,0,0,0,0,"1,224"
+,Passenger - Standard,0,0,24,88,272,"13,467",495,0,0,0,74,0,0,"14,420"
+,Light Truck,0,0,18,"2,499",250,"16,973",460,0,0,0,99,0,0,"20,299"
+,Heavy Truck,0,0,2,553,0,240,1,0,0,0,0,0,0,796
+ROCKVILLE,Motorcycle - Standard,0,0,0,0,0,15,0,0,0,0,0,0,0,15
+,Passenger - Standard,0,0,1,1,3,93,14,0,0,0,0,0,0,112
+,Light Truck,0,0,1,27,5,179,6,0,0,0,1,0,0,219
+,Heavy Truck,0,0,0,7,0,3,0,0,0,0,0,0,0,10
+ROCKY RIDGE,Motorcycle - Standard,0,0,0,0,0,15,0,0,0,0,0,0,0,15
+,Passenger - Standard,0,0,0,2,0,240,12,0,0,0,1,0,0,255
+,Light Truck,0,0,0,40,0,197,2,0,0,0,2,0,0,241
+,Heavy Truck,0,0,0,26,0,1,0,0,0,0,0,0,0,27
+ROOSEVELT,Motorcycle - Standard,0,0,0,0,0,388,0,0,0,0,0,0,0,388
+,Passenger - Standard,0,0,5,32,7,"3,281",46,0,0,0,10,0,0,"3,381"
+,Light Truck,0,0,11,"1,682",7,"6,924",57,0,0,0,9,0,0,"8,690"
+,Heavy Truck,0,0,1,"1,300",0,117,0,0,0,0,0,8,0,"1,426"
+ROY,Motorcycle - Standard,0,0,0,0,3,"1,232",0,0,0,1,0,0,0,"1,236"
+,Passenger - Standard,0,0,24,92,79,"12,772",304,0,0,1,41,0,0,"13,313"
+,Light Truck,0,0,19,"1,636",50,"13,614",233,0,0,0,27,0,0,"15,579"
+,Heavy Truck,0,0,1,251,0,116,0,0,0,0,0,0,0,368
+RUSH VALLEY,Motorcycle - Standard,0,0,0,0,0,25,0,0,0,0,0,0,0,25
+,Passenger - Standard,0,0,2,7,1,237,8,0,0,0,0,0,0,255
+,Light Truck,0,0,1,179,0,307,1,0,0,0,0,0,0,488
+,Heavy Truck,0,0,0,103,0,12,0,0,0,0,0,0,0,115
+SAINT GEORGE,Motorcycle - Standard,0,0,0,0,9,"3,271",0,0,0,2,0,0,0,"3,282"
+,Passenger - Standard,0,0,98,530,522,"36,123","1,867",0,1,1,197,0,0,"39,339"
+,Light Truck,0,0,69,"6,921",480,"49,036","1,440",0,0,0,217,0,0,"58,163"
+,Heavy Truck,0,0,16,"4,091",0,818,1,0,0,0,0,33,0,"4,959"
+SALEM,Motorcycle - Standard,0,0,0,0,1,271,0,0,0,0,0,0,0,272
+,Passenger - Standard,0,0,9,49,45,"3,122",114,0,0,0,16,0,0,"3,355"
+,Light Truck,0,0,2,723,62,"4,499",108,0,0,0,24,0,0,"5,418"
+,Heavy Truck,0,0,1,179,0,42,0,0,0,0,0,0,0,222
+SALINA,Motorcycle - Standard,0,0,0,0,0,88,0,0,0,0,0,0,0,88
+,Passenger - Standard,0,0,4,13,0,"1,041",13,0,0,0,0,0,0,"1,071"
+,Light Truck,0,0,4,470,2,"1,680",10,0,0,0,1,0,0,"2,167"
+,Heavy Truck,0,0,1,656,0,46,0,0,0,0,0,0,0,703
+SALT LAKE CITY,Motorcycle - Standard,0,0,0,0,72,"7,339",0,0,0,0,0,0,0,"7,411"
+,Passenger - Standard,0,0,157,709,"2,971","107,402","4,921",0,0,2,682,0,0,"116,844"
+,Light Truck,0,0,129,"11,881","2,775","141,517","5,690",0,0,0,985,0,0,"162,977"
+,Heavy Truck,0,0,313,"10,457",45,"2,297",8,0,0,2,0,1,0,"13,123"
+SANDY,Motorcycle - Standard,0,0,0,0,15,"3,061",1,0,0,0,0,0,0,"3,077"
+,Passenger - Standard,0,0,50,248,806,"34,126","1,248",0,0,0,186,0,0,"36,664"
+,Light Truck,0,0,39,"3,213",865,"44,028","1,559",0,0,0,288,0,0,"49,992"
+,Heavy Truck,0,0,2,"1,129",0,471,0,0,0,0,0,0,0,"1,602"
+SANTA CLARA,Motorcycle - Standard,0,0,0,0,2,298,0,0,0,0,0,0,0,300
+,Passenger - Standard,0,0,9,48,44,"2,622",140,0,0,0,15,0,0,"2,878"
+,Light Truck,0,0,6,631,30,"3,741",108,0,0,0,16,0,0,"4,532"
+,Heavy Truck,0,0,0,133,0,52,0,0,0,0,0,0,0,185
+SANTAQUIN,Motorcycle - Standard,0,0,0,0,1,384,0,0,0,0,0,0,0,385
+,Passenger - Standard,0,0,9,50,59,"4,330",140,0,0,0,27,0,0,"4,615"
+,Light Truck,0,0,7,856,38,"5,668",102,0,0,0,17,0,0,"6,688"
+,Heavy Truck,0,0,0,147,0,41,0,0,0,0,0,0,0,188
+SARATOGA SPRINGS,Motorcycle - Standard,0,0,0,0,8,909,0,0,0,0,0,0,0,917
+,Passenger - Standard,0,0,21,85,382,"11,247",602,0,0,0,99,0,0,"12,436"
+,Light Truck,0,0,5,"1,065",381,"15,206",552,0,0,0,93,0,0,"17,302"
+,Heavy Truck,0,0,0,323,0,91,0,0,0,0,0,0,0,414
+SCIPIO,Motorcycle - Standard,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+,Passenger - Standard,0,0,0,5,1,143,5,0,0,0,0,0,0,154
+,Light Truck,0,0,1,92,0,237,2,0,0,0,0,0,0,332
+,Heavy Truck,0,0,0,11,0,2,0,0,0,0,0,0,0,13
+SCOFIELD,Motorcycle - Standard,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+,Passenger - Standard,0,0,0,2,0,75,0,0,0,0,0,0,0,77
+,Light Truck,0,0,0,63,0,99,0,0,0,0,1,0,0,163
+,Heavy Truck,0,0,0,9,0,2,0,0,0,0,0,0,0,11
+SEVIER,Motorcycle - Standard,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+,Passenger - Standard,0,0,0,0,0,74,0,0,0,0,0,0,0,74
+,Light Truck,0,0,0,43,0,106,1,0,0,0,0,0,0,150
+,Heavy Truck,0,0,0,11,0,3,0,0,0,0,0,0,0,14
+SIGURD,Motorcycle - Standard,0,0,0,0,0,23,0,0,0,0,0,0,0,23
+,Passenger - Standard,0,0,1,3,0,210,5,0,0,0,1,0,0,220
+,Light Truck,0,0,1,133,0,324,2,0,0,0,0,0,0,460
+,Heavy Truck,0,0,0,104,0,6,0,0,0,0,0,0,0,110
+SMITHFIELD,Motorcycle - Standard,0,0,0,0,2,570,0,0,0,0,0,0,0,572
+,Passenger - Standard,0,0,10,46,34,"4,290",161,0,0,0,28,0,0,"4,569"
+,Light Truck,0,0,7,735,47,"6,303",156,0,0,0,20,0,0,"7,268"
+,Heavy Truck,0,0,1,402,0,84,0,0,0,0,0,0,0,487
+SNOWVILLE,Motorcycle - Standard,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+,Passenger - Standard,0,0,0,1,0,100,2,0,0,0,0,0,0,103
+,Light Truck,0,0,0,56,0,133,1,0,0,0,0,0,0,190
+,Heavy Truck,0,0,0,36,0,4,0,0,0,0,0,0,0,40
+SOUTH JORDAN,Motorcycle - Standard,0,0,0,0,9,"1,880",0,0,0,0,0,0,0,"1,889"
+,Passenger - Standard,0,0,44,173,789,"23,200","1,145",0,0,0,186,0,0,"25,537"
+,Light Truck,0,0,20,"2,760",931,"31,207","1,152",0,0,0,256,0,0,"36,326"
+,Heavy Truck,0,0,4,533,0,330,0,0,0,0,0,0,0,867
+SOUTH OGDEN,Motorcycle - Standard,0,0,0,0,1,253,0,0,0,0,0,0,0,254
+,Passenger - Standard,0,0,2,20,41,"2,301",102,0,0,0,12,0,0,"2,478"
+,Light Truck,0,0,0,214,44,"2,989",148,0,0,0,24,0,0,"3,419"
+,Heavy Truck,0,0,0,65,0,22,0,0,0,0,0,0,0,87
+SOUTH SALT LAKE,Motorcycle - Standard,0,0,0,0,3,328,0,0,0,0,0,0,0,331
+,Passenger - Standard,0,0,12,27,135,"4,717",177,0,0,0,18,0,0,"5,086"
+,Light Truck,0,0,8,391,139,"6,702",430,0,0,0,18,0,0,"7,688"
+,Heavy Truck,0,0,5,891,3,130,0,0,0,0,0,0,0,"1,029"
+SOUTH WEBER,Motorcycle - Standard,0,0,0,0,1,195,0,0,0,0,0,0,0,196
+,Passenger - Standard,0,0,2,19,41,"1,945",89,0,0,0,8,0,0,"2,104"
+,Light Truck,0,0,3,356,40,"2,678",115,0,0,0,19,0,0,"3,211"
+,Heavy Truck,0,0,0,69,0,23,0,0,0,0,0,0,0,92
+SPANISH FORK,Motorcycle - Standard,0,0,0,0,4,"1,077",0,0,0,1,0,0,0,"1,082"
+,Passenger - Standard,0,0,22,126,208,"13,475",451,0,1,1,64,0,0,"14,348"
+,Light Truck,0,0,15,"2,342",138,"17,040",349,0,1,0,44,0,0,"19,929"
+,Heavy Truck,0,0,1,"1,126",0,211,0,0,0,0,0,0,0,"1,338"
+SPRING CITY,Motorcycle - Standard,0,0,0,0,0,54,0,0,0,0,0,0,0,54
+,Passenger - Standard,0,0,3,22,5,656,9,0,0,0,3,0,0,698
+,Light Truck,0,0,4,252,3,967,14,0,0,0,1,0,0,"1,241"
+,Heavy Truck,0,0,0,63,0,14,0,0,0,0,0,0,0,77
+SPRINGDALE,Motorcycle - Standard,0,0,0,0,0,39,0,0,0,0,0,0,0,39
+,Passenger - Standard,0,0,0,7,5,245,16,0,0,0,3,0,0,276
+,Light Truck,0,0,1,59,11,489,10,0,0,0,4,0,0,574
+,Heavy Truck,0,0,0,4,0,5,0,0,0,0,0,1,0,10
+SPRINGVILLE,Motorcycle - Standard,0,0,0,0,5,984,0,0,0,0,0,0,0,989
+,Passenger - Standard,0,0,22,89,126,"10,634",427,0,0,0,58,0,0,"11,356"
+,Light Truck,0,0,27,"1,315",102,"13,221",304,0,0,0,48,0,0,"15,017"
+,Heavy Truck,0,0,4,903,0,232,0,0,0,0,0,0,0,"1,139"
+STANSBURY PARK,Motorcycle - Standard,0,0,0,0,1,327,0,0,0,0,0,0,0,328
+,Passenger - Standard,0,0,5,50,67,"4,403",155,0,0,0,27,0,0,"4,707"
+,Light Truck,0,0,10,656,55,"4,541",79,0,0,0,24,0,0,"5,365"
+,Heavy Truck,0,0,0,87,0,50,0,0,0,0,0,0,0,137
+STERLING,Motorcycle - Standard,0,0,0,0,0,22,0,0,0,0,0,0,0,22
+,Passenger - Standard,0,0,0,4,0,208,2,0,0,0,1,0,0,215
+,Light Truck,0,0,1,97,2,283,0,0,0,0,0,0,0,383
+,Heavy Truck,0,0,0,18,0,2,0,0,0,0,0,0,0,20
+STOCKTON,Motorcycle - Standard,0,0,0,0,0,85,0,0,0,0,0,0,0,85
+,Passenger - Standard,0,0,1,15,3,666,16,0,0,0,3,0,0,704
+,Light Truck,0,0,3,368,4,"1,015",4,0,0,0,1,0,0,"1,395"
+,Heavy Truck,0,0,0,83,0,13,0,0,0,0,0,0,0,96
+SUMMIT,Motorcycle - Standard,0,0,0,0,0,3,0,0,0,0,0,0,0,3
+,Passenger - Standard,0,0,1,2,1,79,4,0,0,0,0,0,0,87
+,Light Truck,0,0,1,35,1,132,2,0,0,0,1,0,0,172
+,Heavy Truck,0,0,0,8,0,2,0,0,0,0,0,0,0,10
+SUNNYSIDE,Motorcycle - Standard,0,0,0,0,0,11,0,0,0,0,0,0,0,11
+,Passenger - Standard,0,0,0,1,0,136,3,0,0,0,1,0,0,141
+,Light Truck,0,0,0,31,0,196,1,0,0,0,0,0,0,228
+,Heavy Truck,0,0,0,8,0,3,0,0,0,0,0,0,0,11
+SUNSET,Motorcycle - Standard,0,0,0,0,1,140,0,0,0,0,0,0,0,141
+,Passenger - Standard,0,0,3,7,8,"1,415",26,0,0,0,3,0,0,"1,462"
+,Light Truck,0,0,1,107,3,"1,321",21,0,0,0,2,0,0,"1,455"
+,Heavy Truck,0,0,0,37,0,11,0,0,0,0,0,0,0,48
+SYRACUSE,Motorcycle - Standard,0,0,0,0,1,955,0,0,0,0,0,0,0,956
+,Passenger - Standard,0,0,27,97,191,"10,353",448,0,0,0,63,0,0,"11,179"
+,Light Truck,0,0,7,"1,456",159,"12,775",380,0,0,0,69,0,0,"14,846"
+,Heavy Truck,0,0,1,345,0,145,0,0,0,0,0,0,0,491
+TABIONA,Motorcycle - Standard,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+,Passenger - Standard,0,0,0,2,0,242,3,0,0,0,0,0,0,247
+,Light Truck,0,0,1,159,0,388,2,0,0,0,1,0,0,551
+,Heavy Truck,0,0,0,57,0,3,0,0,0,0,0,0,0,60
+TALMAGE,Motorcycle - Standard,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+,Passenger - Standard,0,0,0,1,0,86,2,0,0,0,0,0,0,89
+,Light Truck,0,0,0,78,0,180,0,0,0,0,0,0,0,258
+,Heavy Truck,0,0,0,15,0,3,0,0,0,0,0,0,0,18
+TAYLOR,Motorcycle - Standard,0,0,0,0,0,43,0,0,0,0,0,0,0,43
+,Passenger - Standard,0,0,2,5,2,316,9,0,0,0,1,0,0,335
+,Light Truck,0,0,0,131,4,402,11,0,0,0,7,0,0,555
+,Heavy Truck,0,0,0,24,0,6,0,0,0,0,0,0,0,30
+TAYLORSVILLE,Motorcycle - Standard,0,0,0,0,3,"1,248",0,0,0,0,0,0,0,"1,251"
+,Passenger - Standard,0,0,23,73,174,"17,329",531,0,0,0,57,0,0,"18,187"
+,Light Truck,0,0,18,"1,278",134,"17,709",382,0,0,0,27,0,0,"19,548"
+,Heavy Truck,0,0,0,574,0,164,0,0,0,0,0,0,0,738
+TEASDALE,Motorcycle - Standard,0,0,0,0,0,13,0,0,0,0,0,0,0,13
+,Passenger - Standard,0,0,0,6,1,122,6,0,0,0,1,0,0,136
+,Light Truck,0,0,1,88,0,273,2,0,0,0,2,0,0,366
+,Heavy Truck,0,0,0,3,0,5,0,0,0,0,0,0,0,8
+THATCHER,Motorcycle - Standard,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+,Passenger - Standard,0,0,1,2,1,138,6,0,0,0,2,0,0,150
+,Light Truck,0,0,0,69,0,171,2,0,0,0,0,0,0,242
+,Heavy Truck,0,0,0,13,0,2,0,0,0,0,0,0,0,15
+TOOELE,Motorcycle - Standard,0,0,0,0,0,"1,374",0,0,0,1,0,0,0,"1,375"
+,Passenger - Standard,0,0,26,196,108,"18,027",434,0,0,0,74,0,0,"18,865"
+,Light Truck,0,0,34,"3,121",58,"18,481",227,0,0,0,31,0,0,"21,952"
+,Heavy Truck,0,0,2,782,0,229,0,0,0,0,0,0,0,"1,013"
+TOQUERVILLE,Motorcycle - Standard,0,0,0,0,0,108,0,0,0,0,0,0,0,108
+,Passenger - Standard,0,0,5,12,9,702,57,0,0,0,4,0,0,789
+,Light Truck,0,0,2,206,13,988,21,0,0,0,1,0,0,"1,231"
+,Heavy Truck,0,0,0,28,0,15,0,0,0,0,0,0,0,43
+TORREY,Motorcycle - Standard,0,0,0,0,0,35,0,0,0,0,0,0,0,35
+,Passenger - Standard,0,0,0,5,3,201,10,0,0,0,1,0,0,220
+,Light Truck,0,0,0,113,2,375,2,0,0,0,0,0,0,492
+,Heavy Truck,0,0,0,13,0,2,0,0,0,0,0,0,0,15
+TREMONTON,Motorcycle - Standard,0,0,0,0,0,398,0,0,0,0,0,0,0,398
+,Passenger - Standard,0,0,18,90,26,"5,334",154,0,0,0,23,0,0,"5,645"
+,Light Truck,0,0,10,"1,880",23,"6,327",86,0,0,0,4,0,0,"8,330"
+,Heavy Truck,0,0,0,668,0,94,0,0,0,0,0,0,0,762
+TRENTON,Motorcycle - Standard,0,0,0,0,0,20,0,0,0,0,0,0,0,20
+,Passenger - Standard,0,0,0,2,3,199,3,0,0,0,1,0,0,208
+,Light Truck,0,0,0,53,0,250,4,0,0,0,0,0,0,307
+,Heavy Truck,0,0,0,32,0,4,0,0,0,0,0,0,0,36
+TRIDELL,Motorcycle - Standard,0,0,0,0,0,14,0,0,0,0,0,0,0,14
+,Passenger - Standard,0,0,1,0,0,126,1,0,0,0,0,0,0,128
+,Light Truck,0,0,0,45,0,194,1,0,0,0,0,0,0,240
+,Heavy Truck,0,0,0,10,0,0,0,0,0,0,0,0,0,10
+TROPIC,Motorcycle - Standard,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+,Passenger - Standard,0,0,0,4,1,151,2,0,0,0,0,0,0,158
+,Light Truck,0,0,0,110,1,319,4,0,0,0,2,0,0,436
+,Heavy Truck,0,0,0,19,0,6,0,0,0,0,0,0,0,25
+UINTAH,Motorcycle - Standard,0,0,0,0,0,51,0,0,0,0,0,0,0,51
+,Passenger - Standard,0,0,0,3,4,313,11,0,0,0,0,0,0,331
+,Light Truck,0,0,0,66,5,406,9,0,0,0,2,0,0,488
+,Heavy Truck,0,0,0,31,0,8,0,0,0,0,0,0,0,39
+VENICE,Motorcycle - Standard,0,0,0,0,0,13,0,0,0,0,0,0,0,13
+,Passenger - Standard,0,0,0,0,0,112,3,0,0,0,0,0,0,115
+,Light Truck,0,0,1,64,0,172,5,0,0,0,0,0,0,242
+,Heavy Truck,0,0,0,41,0,5,0,0,0,0,0,0,0,46
+VERNAL,Motorcycle - Standard,0,0,0,0,1,"1,094",0,0,0,0,0,0,0,"1,095"
+,Passenger - Standard,0,0,12,133,35,"8,238",122,0,0,0,10,0,0,"8,550"
+,Light Truck,0,0,27,"3,882",21,"15,913",140,0,0,0,12,3,0,"19,998"
+,Heavy Truck,0,0,3,"2,364",6,503,0,0,0,0,0,27,0,"2,903"
+VERNON,Motorcycle - Standard,0,0,0,0,0,10,0,0,0,0,0,0,0,10
+,Passenger - Standard,0,0,0,2,0,126,2,0,0,0,0,0,0,130
+,Light Truck,0,0,0,60,0,156,0,0,0,0,0,0,0,216
+,Heavy Truck,0,0,0,10,0,4,0,0,0,0,0,0,0,14
+VEYO,Motorcycle - Standard,0,0,0,0,0,18,0,0,0,0,0,0,0,18
+,Passenger - Standard,0,0,2,6,2,216,11,0,0,0,1,0,0,238
+,Light Truck,0,0,0,116,1,356,4,0,0,0,1,0,0,478
+,Heavy Truck,0,0,0,40,0,3,0,0,0,0,0,0,0,43
+VINEYARD,Motorcycle - Standard,0,0,0,0,1,241,0,0,0,0,0,0,0,242
+,Passenger - Standard,0,0,4,23,145,"3,445",186,0,0,1,30,0,0,"3,834"
+,Light Truck,0,0,4,179,138,"4,371",182,0,0,0,36,0,0,"4,910"
+,Heavy Truck,0,0,0,73,0,34,0,0,0,0,0,0,0,107
+VIRGIN,Motorcycle - Standard,0,0,0,0,0,42,0,0,0,0,0,0,0,42
+,Passenger - Standard,0,0,0,12,1,263,9,0,0,0,2,0,0,287
+,Light Truck,0,0,1,101,5,508,9,0,0,0,4,0,0,628
+,Heavy Truck,0,0,0,32,0,7,0,0,0,0,0,0,0,39
+WALES,Motorcycle - Standard,0,0,0,0,0,11,0,0,0,0,0,0,0,11
+,Passenger - Standard,0,0,1,2,1,186,3,0,0,0,1,0,0,194
+,Light Truck,0,0,1,81,0,248,4,0,0,0,0,0,0,334
+,Heavy Truck,0,0,0,24,0,2,0,0,0,0,0,0,0,26
+WALLSBURG,Motorcycle - Standard,0,0,0,0,0,29,0,0,0,0,0,0,0,29
+,Passenger - Standard,0,0,0,7,1,330,6,0,0,0,0,0,0,344
+,Light Truck,0,0,2,257,4,528,13,0,0,0,0,0,0,804
+,Heavy Truck,0,0,0,38,0,7,0,0,0,0,0,0,0,45
+WANSHIP,Motorcycle - Standard,0,0,0,0,0,49,0,0,0,0,0,0,0,49
+,Passenger - Standard,0,0,0,8,8,285,7,0,0,0,1,0,0,309
+,Light Truck,0,0,2,167,5,664,9,0,0,0,4,0,0,851
+,Heavy Truck,0,0,0,30,0,5,0,0,0,0,0,0,0,35
+WASHINGTON CITY,Motorcycle - Standard,0,0,0,0,5,"1,181",0,0,0,1,0,0,0,"1,187"
+,Passenger - Standard,0,0,31,203,181,"11,203",595,0,0,0,53,0,0,"12,266"
+,Light Truck,0,0,23,"2,657",157,"16,242",492,0,0,0,75,0,0,"19,646"
+,Heavy Truck,0,0,1,904,0,269,0,0,0,0,0,0,0,"1,174"
+WASHINGTON TERRACE,Motorcycle - Standard,0,0,0,0,0,113,0,0,0,0,0,0,0,113
+,Passenger - Standard,0,0,1,7,11,"1,234",33,0,0,0,0,0,0,"1,286"
+,Light Truck,0,0,2,107,9,"1,292",29,0,0,0,2,0,0,"1,441"
+,Heavy Truck,0,0,0,20,0,15,0,0,0,0,0,0,0,35
+WELLINGTON,Motorcycle - Standard,0,0,0,0,0,49,0,0,0,0,0,0,0,49
+,Passenger - Standard,0,0,1,5,3,693,14,0,0,0,1,0,0,717
+,Light Truck,0,0,2,261,1,868,3,0,0,0,1,0,0,"1,136"
+,Heavy Truck,0,0,0,83,0,11,0,0,0,0,0,0,0,94
+WELLSVILLE,Motorcycle - Standard,0,0,0,0,0,219,0,0,0,0,0,0,0,219
+,Passenger - Standard,0,0,11,30,21,"1,717",61,0,0,0,7,0,0,"1,847"
+,Light Truck,0,0,1,595,18,"2,907",52,0,0,0,6,0,0,"3,579"
+,Heavy Truck,0,0,0,359,0,29,0,0,0,0,0,0,0,388
+WENDOVER,Motorcycle - Standard,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+,Passenger - Standard,0,0,1,1,0,487,6,0,0,0,1,0,0,496
+,Light Truck,0,0,1,55,0,503,3,0,0,0,0,0,0,562
+,Heavy Truck,0,0,0,30,0,2,0,0,0,0,0,1,0,33
+WEST BOUNTIFUL,Motorcycle - Standard,0,0,0,0,3,338,0,0,0,0,0,0,0,341
+,Passenger - Standard,0,0,6,24,38,"2,328",93,0,0,0,15,0,0,"2,504"
+,Light Truck,0,0,7,436,54,"3,683",101,0,0,0,20,0,0,"4,301"
+,Heavy Truck,0,0,0,196,0,42,0,0,0,0,0,0,0,238
+WEST HAVEN,Motorcycle - Standard,0,0,0,0,4,653,0,0,0,0,0,0,0,657
+,Passenger - Standard,0,0,10,54,89,"5,797",200,0,0,0,27,0,0,"6,177"
+,Light Truck,0,0,8,"1,525",94,"7,743",222,0,0,0,32,0,0,"9,624"
+,Heavy Truck,0,0,22,669,0,142,0,0,0,0,0,1,0,834
+WEST JORDAN,Motorcycle - Standard,0,0,0,0,4,"2,730",0,0,0,0,0,0,0,"2,734"
+,Passenger - Standard,0,0,65,204,441,"39,220","1,146",0,1,1,130,0,0,"41,208"
+,Light Truck,0,0,73,"4,531",473,"43,216",937,0,0,0,140,0,0,"49,370"
+,Heavy Truck,0,0,199,"1,722",0,532,0,0,0,0,0,0,0,"2,453"
+WEST POINT,Motorcycle - Standard,0,0,0,0,1,347,0,0,0,1,0,0,0,349
+,Passenger - Standard,0,0,2,26,37,"3,338",110,0,0,0,5,0,0,"3,518"
+,Light Truck,0,0,7,575,39,"3,992",76,0,0,0,11,0,0,"4,700"
+,Heavy Truck,0,0,0,98,0,48,0,0,0,0,0,0,0,146
+WEST VALLEY CITY,Motorcycle - Standard,0,0,0,0,6,"2,302",0,0,0,0,0,0,0,"2,308"
+,Passenger - Standard,0,0,52,169,282,"43,801","1,086",0,0,0,93,0,0,"45,483"
+,Light Truck,0,0,57,"3,851",276,"45,106",686,0,0,0,90,0,0,"50,066"
+,Heavy Truck,0,0,202,"2,601",1,574,1,0,0,0,0,1,0,"3,380"
+WHITEROCKS,Motorcycle - Standard,0,0,0,0,0,19,0,0,0,0,0,0,0,19
+,Passenger - Standard,0,0,0,1,0,136,0,0,0,0,0,0,0,137
+,Light Truck,0,0,0,39,0,263,4,0,0,0,0,0,0,306
+,Heavy Truck,0,0,0,14,0,0,0,0,0,0,0,0,0,14
+WILLARD,Motorcycle - Standard,0,0,0,0,0,206,0,0,0,1,0,0,0,207
+,Passenger - Standard,0,0,6,54,11,"2,002",55,0,0,0,17,0,0,"2,145"
+,Light Truck,0,0,13,761,14,"2,324",47,0,0,0,6,0,0,"3,165"
+,Heavy Truck,0,0,0,202,0,36,0,0,0,0,0,0,0,238
+WOODLAND HILLS,Motorcycle - Standard,0,0,0,0,0,60,0,0,0,0,0,0,0,60
+,Passenger - Standard,0,0,1,9,16,430,22,0,0,0,4,0,0,482
+,Light Truck,0,0,0,102,30,742,31,0,0,0,8,0,0,913
+,Heavy Truck,0,0,0,31,0,8,0,0,0,0,0,0,0,39
+WOODRUFF,Motorcycle - Standard,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+,Passenger - Standard,0,0,0,3,0,133,2,0,0,0,0,0,0,138
+,Light Truck,0,0,0,109,0,243,3,0,0,0,0,0,0,355
+,Heavy Truck,0,0,0,28,0,3,0,0,0,0,0,0,0,31
+WOODS CROSS,Motorcycle - Standard,0,0,0,0,2,345,0,0,0,0,0,0,0,347
+,Passenger - Standard,0,1,9,30,57,"3,490",140,0,0,0,20,0,0,"3,747"
+,Light Truck,0,0,2,459,31,"4,602",122,0,0,0,18,0,0,"5,234"
+,Heavy Truck,0,0,2,333,0,59,0,0,0,0,0,0,0,394
