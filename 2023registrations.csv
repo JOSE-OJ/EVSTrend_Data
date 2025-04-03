@@ -1,8 +1,8 @@
 City,Vehicle Type,Alcohol,Butane,Compressed Natural Gas,Diesel,Electric,Gasoline,Hybrid,Hydrogen,Liquefied Natural Gas,Other,Plug-in Hybrid,Propane,Steam,TOTAL
 ALPINE,Motorcycle - Standard,0,0,0,0,1,452,0,0,0,0,0,0,0,453
-`,Passenger - Standard,0,0,3,45,131,3056,141,0,0,0,36,0,0,3412
-`,Light Truck,0,0,2,451,113,4539,132,0,0,0,34,0,0,5271
-`,Heavy Truck,0,0,0,247,0,29,0,0,0,0,0,0,0,276
+ALPINE,Passenger - Standard,0,0,3,45,131,3056,141,0,0,0,36,0,0,3412
+ALPINE,Light Truck,0,0,2,451,113,4539,132,0,0,0,34,0,0,5271
+ALPINE,Heavy Truck,0,0,0,247,0,29,0,0,0,0,0,0,0,276
 ALTA,Motorcycle - Standard,0,0,0,0,0,13,0,0,0,0,0,0,0,13
 ALTA,Passenger - Standard,0,0,0,1,1,56,0,0,0,0,0,0,0,58
 ALTA,Light Truck,0,0,0,14,1,160,2,0,0,0,2,0,0,179
