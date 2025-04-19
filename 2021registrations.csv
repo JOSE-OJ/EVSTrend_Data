@@ -1247,6 +1247,3 @@ Year,City,Vehicle Type,Butane,Compressed Natural Gas,Diesel,Electric,Gasoline,Hy
 2021,WOODS CROSS,Light Truck,0,4,435,2,3838,39,0,0,0,6,0,0,4324
 2021,WOODS CROSS,Heavy Truck,0,0,294,0,62,0,0,0,0,0,0,0,356
 2021,WOODS CROSS,Heavy Truck,0,0,294,0,62,0,0,0,0,0,0,0,356
-2021,"*Hybrid, Electric and CNG counts are only as accurate as the information provide by the vehicle manufacturer.",Heavy Truck,0,0,294,0,62,0,0,0,0,0,0,0,356
-2021,Converted and Propane counts are only as accurate as the information provided by the owner of the vehicle.,Heavy Truck,0,0,294,0,62,0,0,0,0,0,0,0,356
-2021,City is determined by address as reported by vehicle owner. Only select cities are included.,Heavy Truck,0,0,294,0,62,0,0,0,0,0,0,0,356
